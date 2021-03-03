@@ -1,3 +1,0 @@
-install.packages("argusDS.data.visualisation", repos = getOption("repos"), dependencies = F, INSTALL_opts = "--no-multiarch")
-rsconnect::writeManifest()
-renv::restore(rebuild = TRUE)

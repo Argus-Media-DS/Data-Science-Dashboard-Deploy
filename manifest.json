@@ -915,14 +915,9 @@
         "Date": "2020-10-02",
         "NeedsCompilation": "no",
         "Packaged": "2020-10-02 15:19:22 UTC; root",
-        "Built": "R 3.6.3; ; 2020-10-07 10:02:29 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-Credentials",
-        "RemoteSubdir": "argus.DS.Credentials",
-        "RemoteRef": "master",
-        "RemoteSha": "2607d07250d1e6faa866b68576738dc25eaee01c"
+        "Built": "R 3.6.3; ; 2021-03-02 10:17:16 UTC; windows",
+        "RemoteType": "repository",
+        "RemoteSha": "62f1bf1b06071db5e8ec0c1b73dfda1a4e285c66"
       }
     },
     "argus.model.performance": {
@@ -947,9 +942,12 @@
         "NeedsCompilation": "no",
         "Packaged": "2021-02-16 20:28:20 UTC; root",
         "Built": "R 3.6.3; ; 2021-02-23 11:34:16 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-        "RemoteSha": "f40c853515b8ed4b6b9f4e83be07780ef0307086"
+        "RemoteType": "github",
+        "RemoteHost": "api.github.com",
+        "RemoteUsername": "Argus-Media-DS",
+        "RemoteRepo": "DS-ModelPerformance",
+        "RemoteRef": "master",
+        "RemoteSha": "4f431e1808accb76ae14a9244f3dcdfa1332b73c"
       }
     },
     "argusDS.DB.manager.utilities": {
@@ -1144,13 +1142,8 @@
         "Date": "2021-01-26",
         "NeedsCompilation": "no",
         "Packaged": "2021-01-26 14:48:19 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-11 12:48:34 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-Database",
-        "RemoteSubdir": "argusDS.database",
-        "RemoteRef": "master",
+        "Built": "R 3.6.3; ; 2021-03-02 10:17:19 UTC; windows",
+        "RemoteType": "repository",
         "RemoteSha": "6fc0bd0b19b12e5bc7b17f08c7939b689144f25d"
       }
     },
@@ -1199,14 +1192,14 @@
         "VignetteBuilder": "knitr",
         "Language": "en-US",
         "Repository": "RSPM",
-        "RemoteSha": "cc5fd2446a9f4a377591fb7a885554ef69c7dfa3",
-        "Version": "0.0.1.028",
-        "Date": "2021-03-02",
+        "RemoteSha": "b10e6ac6b6a9767f343d0775216dafb9f1e4741f",
+        "Version": "0.0.1.030",
+        "Date": "2021-03-03",
         "NeedsCompilation": "no",
-        "Packaged": "2021-03-02 10:06:15 UTC; root",
+        "Packaged": "2021-03-03 13:04:08 UTC; root",
         "Author": "Argus ML/AI Quants Argus ML/AI Quants [cre, aut]",
         "Maintainer": "Argus ML/AI Quants Argus ML/AI Quants <DataScience@argusmedia.com>",
-        "Built": "R 3.6.3; ; 2021-03-02 11:20:59 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-03-03 13:11:13 UTC; windows"
       }
     },
     "argusDS.model.testing": {
@@ -1230,9 +1223,13 @@
         "Date": "2020-08-21",
         "NeedsCompilation": "no",
         "Packaged": "2020-08-21 09:04:12 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 12:02:28 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities",
+        "Built": "R 3.6.3; ; 2020-10-07 10:07:54 UTC; windows",
+        "RemoteType": "github",
+        "RemoteHost": "api.github.com",
+        "RemoteUsername": "Argus-Media-DS",
+        "RemoteRepo": "DS-Model-Testing",
+        "RemoteSubdir": "argusDS.model.testing",
+        "RemoteRef": "master",
         "RemoteSha": "09907c9d98203a9b15092ae1b262375e518840be"
       }
     },
@@ -1256,10 +1253,14 @@
         "Date": "2020-10-02",
         "NeedsCompilation": "no",
         "Packaged": "2020-10-02 15:21:26 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 12:02:38 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/argus.data.preparation",
-        "RemoteSha": "3227275ea37d7891d0914c8a9ede4a53a2370137"
+        "Built": "R 3.6.3; ; 2020-10-07 10:05:51 UTC; windows",
+        "RemoteType": "github",
+        "RemoteHost": "api.github.com",
+        "RemoteUsername": "Argus-Media-DS",
+        "RemoteRepo": "DS-ModelDB",
+        "RemoteSubdir": "argusDS.modeldb",
+        "RemoteRef": "master",
+        "RemoteSha": "b48f0a496a5691b36465620dccf65c4d523b9d6c"
       }
     },
     "argusDS.smoothers": {
@@ -1306,18 +1307,12 @@
         "RoxygenNote": "7.1.0",
         "Imports": "magrittr, stringr, usethis",
         "Repository": "RSPM",
+        "RemoteSha": "766c945b32af591ccf724c68757cd4e8f7b9c222",
         "Version": "0.2.5.0",
         "Date": "2020-08-07",
         "NeedsCompilation": "no",
         "Packaged": "2020-08-07 16:08:13 UTC; root",
-        "Built": "R 3.6.3; ; 2020-10-07 10:02:49 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-Utilities",
-        "RemoteSubdir": "argusDS.utilities",
-        "RemoteRef": "master",
-        "RemoteSha": "c24cace44a207d9b748f1c3ee01abca4179c9e87"
+        "Built": "R 3.6.3; ; 2020-09-07 11:43:19 UTC; windows"
       }
     },
     "askpass": {
@@ -7400,10 +7395,10 @@
       "checksum": "612cf9254afcc3d3adc6af411d580e2f"
     },
     "packrat/desc/argus.DS.Credentials": {
-      "checksum": "2010450b7f76864adb86c284f4ef9932"
+      "checksum": "9c8a620598db89cbf404f93c8d671013"
     },
     "packrat/desc/argus.model.performance": {
-      "checksum": "76ceb144dc394e8ea839f3ee02e38957"
+      "checksum": "e11b71b8c1803a9c5d4726fc497a2830"
     },
     "packrat/desc/argusDS.data.engineering": {
       "checksum": "542776d2aa9a504cca10ea201d1d9ea6"
@@ -7415,7 +7410,7 @@
       "checksum": "6ff2e5d52a7d5a4c28afb7af4bfc0fa4"
     },
     "packrat/desc/argusDS.database": {
-      "checksum": "af5939b503aea7dab5b35b2504459a7a"
+      "checksum": "220bfba66a8129e8e0a6dc2d29da6fac"
     },
     "packrat/desc/argusDS.DB.manager.utilities": {
       "checksum": "4b370c73189e62581776c83a1d9e1061"
@@ -7424,16 +7419,16 @@
       "checksum": "9fd44e0cd39ca13d2ed40dcafd5e368b"
     },
     "packrat/desc/argusDS.ds.dashboard": {
-      "checksum": "c96fdf6d154eaecb35dfd78ac293dddb"
+      "checksum": "1ba9dc37f29460cd6341ca5105ad82f8"
     },
     "packrat/desc/argusDS.GlobalSettings": {
       "checksum": "3743a747d2b4201f1810078f45d20014"
     },
     "packrat/desc/argusDS.model.testing": {
-      "checksum": "e809963bf47e4ba787c7985f4d5c640e"
+      "checksum": "d2d0e01db7137297ba5b56785b4a9452"
     },
     "packrat/desc/argusDS.modeldb": {
-      "checksum": "796efdd8bb693e36e91cc5533a45e500"
+      "checksum": "58a52fa39837aa76d28e89d43a5158af"
     },
     "packrat/desc/argusDS.PossibilityCurves.utils": {
       "checksum": "df6b67581987a140c3557d4eb9a832f8"
@@ -7442,7 +7437,7 @@
       "checksum": "262eaa09f266356676ab3051e8307ef4"
     },
     "packrat/desc/argusDS.utilities": {
-      "checksum": "0d1a1c8a7eebf212f69dfb563b510bec"
+      "checksum": "dd2e85ccee24eedae698908ac5e13c9e"
     },
     "packrat/desc/askpass": {
       "checksum": "9874216fdd9b387882cdac3844e42831"
@@ -8240,7 +8235,7 @@
       "checksum": "f1dd9fef8808026023142df327c2f296"
     },
     "packrat/packrat.lock": {
-      "checksum": "2e75211ccbd170f135e325345ac95c43"
+      "checksum": "763c4455a66fc7668af2390923665d54"
     }
   },
   "users": null
