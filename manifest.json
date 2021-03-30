@@ -915,7 +915,7 @@
         "Date": "2020-10-02",
         "NeedsCompilation": "no",
         "Packaged": "2020-10-02 15:19:22 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 10:17:16 UTC; windows",
+        "Built": "R 3.6.3; ; 2021-02-11 12:48:13 UTC; windows",
         "RemoteType": "repository",
         "RemoteSha": "62f1bf1b06071db5e8ec0c1b73dfda1a4e285c66"
       }
@@ -942,12 +942,9 @@
         "NeedsCompilation": "no",
         "Packaged": "2021-02-16 20:28:20 UTC; root",
         "Built": "R 3.6.3; ; 2021-02-23 11:34:16 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-ModelPerformance",
-        "RemoteRef": "master",
-        "RemoteSha": "4f431e1808accb76ae14a9244f3dcdfa1332b73c"
+        "RemoteType": "repository",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
+        "RemoteSha": "f40c853515b8ed4b6b9f4e83be07780ef0307086"
       }
     },
     "argusDS.DB.manager.utilities": {
@@ -998,13 +995,8 @@
         "NeedsCompilation": "no",
         "Packaged": "2021-02-22 10:41:24 UTC; root",
         "Built": "R 3.6.3; ; 2021-02-23 11:33:09 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-GlobalSettings",
-        "RemoteSubdir": "argusDS.GlobalSettings",
-        "RemoteRef": "master",
-        "RemoteSha": "14f21dc6152c71625c04d496ebfa4eca209cd55d"
+        "RemoteType": "repository",
+        "RemoteSha": "2cd91e85bf4e7bd35985e4ad819bc234a1e7e3a9"
       }
     },
     "argusDS.PossibilityCurves.utils": {
@@ -1024,14 +1016,14 @@
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "Version": "0.1.10.0",
-        "Date": "2021-01-27",
+        "Version": "0.1.10.1",
+        "Date": "2021-03-22",
         "NeedsCompilation": "no",
-        "Packaged": "2021-01-27 19:11:54 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-23 11:34:23 UTC; windows",
+        "Packaged": "2021-03-22 11:44:44 UTC; root",
+        "Built": "R 3.6.3; ; 2021-03-29 09:49:59 UTC; windows",
         "RemoteType": "repository",
         "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-ModelDB/argusDS.modeldb,\nArgus-Media-DS/DS-ModelPerformance",
-        "RemoteSha": "41d7b6661452577ad3e9f27746b05eccc5afbaf5"
+        "RemoteSha": "ab838cced384217bc94fe7d61503715e3abb4518"
       }
     },
     "argusDS.data.engineering": {
@@ -1051,18 +1043,12 @@
         "LazyData": "true",
         "RoxygenNote": "7.1.0",
         "Repository": "RSPM",
+        "RemoteSha": "0fdc25c17fab6485644a9daaa74f66c2a0395526",
         "Version": "0.1.1.0",
         "Date": "2020-09-04",
         "NeedsCompilation": "no",
         "Packaged": "2020-09-04 13:58:49 UTC; root",
-        "Built": "R 3.6.3; ; 2020-10-07 10:03:27 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-Data-Engineering",
-        "RemoteSubdir": "argusDS.data.engineering",
-        "RemoteRef": "master",
-        "RemoteSha": "e02aeadcc5a2b23f8544bf686925f87d19eefcdc"
+        "Built": "R 3.6.3; ; 2020-09-07 11:45:41 UTC; windows"
       }
     },
     "argusDS.data.preparation": {
@@ -1083,17 +1069,14 @@
         "Suggests": "testthat",
         "Imports": "argusDS.database, argusDS.model.testing,\nargusDS.data.engineering, aws.s3, argusDS.GlobalSettings",
         "Repository": "RSPM",
-        "Version": "0.2.3.0",
-        "Date": "2021-01-26",
+        "Version": "0.2.3.3",
+        "Date": "2021-03-22",
         "NeedsCompilation": "no",
-        "Packaged": "2021-01-26 14:59:04 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-23 11:33:18 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "argus.data.preparation",
-        "RemoteRef": "master",
-        "RemoteSha": "7e10dcffcd8990864c534c2a09da99909de46b5f"
+        "Packaged": "2021-03-22 18:12:38 UTC; root",
+        "Built": "R 3.6.3; ; 2021-03-29 09:49:09 UTC; windows",
+        "RemoteType": "repository",
+        "Remotes": "Argus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
+        "RemoteSha": "f6160ae1fe36ffecf7a4ecc0ff96c8534fa97c28"
       }
     },
     "argusDS.data.visualisation": {
@@ -1142,7 +1125,7 @@
         "Date": "2021-01-26",
         "NeedsCompilation": "no",
         "Packaged": "2021-01-26 14:48:19 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 10:17:19 UTC; windows",
+        "Built": "R 3.6.3; ; 2021-02-11 12:48:34 UTC; windows",
         "RemoteType": "repository",
         "RemoteSha": "6fc0bd0b19b12e5bc7b17f08c7939b689144f25d"
       }
@@ -1186,20 +1169,20 @@
         "License": "GPL-3",
         "Encoding": "UTF-8",
         "LazyData": "true",
-        "Imports": "shiny, golem, processx, attempt, DT, glue, htmltools, pkgload,\nshinythemes, shinyjs, shinyBS, shinydashboard,\nshinydashboardPlus, shinyWidgets, dplyr, ggplot2, plotly,\nRCurl, logging, lubridate, aws.s3, kableExtra, zoo, data.table,\ncorrr, magrittr, stringr, GGally, tictoc, scales, curl,\nvisNetwork, callr, purrr, config, tidyr, DBI, bizdays, forcats,\njsonlite, plyr, timeDate, memoise, shinycssloaders, excelR,\ndbplyr, parallel, argusDS.database (>= 0.1.2),\nargus.DS.Credentials (>= 0.1.4), argusDS.utilities (>=\n0.2.5.0), argusDS.PossibilityCurves.utils (>= 0.1.5.1),\nargusDS.data.visualisation (>= 0.1.18),\nargusDS.data.preparation (>= 0.2.1.0), argusDS.model.testing\n(>= 0.1.4.0), argusDS.data.engineering (>= 0.1.1.0),\nargusDS.smoothers (>= 0.1.1), argusDS.modeldb (>= 0.1.8.0),\nargusDS.GlobalSettings (>= 0.1.2), PossibilityCurves (>=\n0.1.11.0), argusDS.distributions (>= 0.1.0),\nargusDS.DB.manager.utilities (>= 0.1.6.0), usethis",
+        "Imports": "shiny, golem, processx, attempt, DT, glue, htmltools, pkgload,\nshinythemes, shinyjs, shinyBS, shinydashboard,\nshinydashboardPlus, shinyWidgets, dplyr, ggplot2, plotly,\nRCurl, logging, lubridate, aws.s3, kableExtra, zoo, data.table,\ncorrr, magrittr, stringr, GGally, tictoc, scales, curl,\nvisNetwork, callr, purrr, config, tidyr, DBI, bizdays, forcats,\njsonlite, plyr, timeDate, memoise, shinycssloaders, excelR,\ndbplyr, parallel, argusDS.database (>= 0.1.2),\nargus.DS.Credentials (>= 0.1.4), argusDS.utilities (>=\n0.2.5.0), argusDS.PossibilityCurves.utils (>= 0.1.5.1),\nargusDS.data.visualisation (>= 0.1.18),\nargusDS.data.preparation (>= 0.2.1.0), argusDS.model.testing\n(>= 0.1.4.0), argusDS.data.engineering (>= 0.1.1.0),\nargusDS.smoothers (>= 0.1.1), argusDS.modeldb (>= 0.1.8.0),\nargusDS.GlobalSettings (>= 0.1.2), PossibilityCurves (>=\n0.1.11.0), argusDS.distributions (>= 0.1.0),\nargusDS.DB.manager.utilities (>= 0.1.6.0), usethis, reactable",
         "RoxygenNote": "7.1.1",
         "Suggests": "testthat (>= 2.1.0), knitr, rmarkdown, spelling",
         "VignetteBuilder": "knitr",
         "Language": "en-US",
         "Repository": "RSPM",
-        "RemoteSha": "b10e6ac6b6a9767f343d0775216dafb9f1e4741f",
-        "Version": "0.0.1.030",
-        "Date": "2021-03-03",
+        "RemoteSha": "3f604e0b42210b1b869383826a5c29722fb1e09d",
+        "Version": "0.0.1.048",
+        "Date": "2021-03-30",
         "NeedsCompilation": "no",
-        "Packaged": "2021-03-03 13:04:08 UTC; root",
+        "Packaged": "2021-03-30 08:53:46 UTC; root",
         "Author": "Argus ML/AI Quants Argus ML/AI Quants [cre, aut]",
         "Maintainer": "Argus ML/AI Quants Argus ML/AI Quants <DataScience@argusmedia.com>",
-        "Built": "R 3.6.3; ; 2021-03-03 13:11:13 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-03-30 08:58:57 UTC; windows"
       }
     },
     "argusDS.model.testing": {
@@ -1217,20 +1200,16 @@
         "Imports": "data.table, gamboostLSS, gamlss.add, knitr, nortest, tictoc,\ntseries, zoo, furrr, purrr, rugarch, argusDS.utilities",
         "Encoding": "UTF-8",
         "LazyData": "true",
-        "RoxygenNote": "7.1.0",
+        "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "Version": "0.1.4.0",
-        "Date": "2020-08-21",
+        "Version": "0.1.5.0",
+        "Date": "2021-03-19",
         "NeedsCompilation": "no",
-        "Packaged": "2020-08-21 09:04:12 UTC; root",
-        "Built": "R 3.6.3; ; 2020-10-07 10:07:54 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-Model-Testing",
-        "RemoteSubdir": "argusDS.model.testing",
-        "RemoteRef": "master",
-        "RemoteSha": "09907c9d98203a9b15092ae1b262375e518840be"
+        "Packaged": "2021-03-19 15:05:01 UTC; root",
+        "Built": "R 3.6.3; ; 2021-03-29 09:48:59 UTC; windows",
+        "RemoteType": "repository",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities",
+        "RemoteSha": "f2487a8b2e8e970371166e54d500bb62c0c0d949"
       }
     },
     "argusDS.modeldb": {
@@ -1244,23 +1223,19 @@
         "Maintainer": "Ferhat Culfaz <ferhat.culfaz@argusmedia.com>",
         "Description": "This package can be used to populate the modelDB as well as\n    retrieve from modelDB.",
         "License": "GPL-3",
-        "Imports": "data.table, devtools, dplyr, lubridate, RMySQL, stringr,\ntidyr, wkb, Xmisc (>= 0.2.1), argusDS.data.preparation (>=\n0.1.5.4), argusDS.data.engineering (>= 0.1.0), argusDS.database\n(>= 0.1.2), argus.DS.Credentials (>= 0.1.2), argusDS.utilities\n(>= 0.2.3), argusDS.GlobalSettings (>= 0.1.2),\nargusDS.model.testing (>= 0.1.1), aws.s3, mailR",
+        "Imports": "data.table, devtools, dplyr, lubridate, RMySQL, stringr,\ntidyr, wkb, Xmisc (>= 0.2.1), argusDS.data.preparation (>=\n0.1.5.4), argusDS.data.engineering (>= 0.1.0), argusDS.database\n(>= 0.1.2), argus.DS.Credentials (>= 0.1.2), argusDS.utilities\n(>= 0.2.3), argusDS.GlobalSettings (>= 0.1.2),\nargusDS.model.testing (>= 0.1.1), aws.s3, mailR, magrittr,\nusethis",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "Version": "0.1.12.0",
-        "Date": "2020-10-02",
+        "Version": "0.1.13.0",
+        "Date": "2021-03-19",
         "NeedsCompilation": "no",
-        "Packaged": "2020-10-02 15:21:26 UTC; root",
-        "Built": "R 3.6.3; ; 2020-10-07 10:05:51 UTC; windows",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteUsername": "Argus-Media-DS",
-        "RemoteRepo": "DS-ModelDB",
-        "RemoteSubdir": "argusDS.modeldb",
-        "RemoteRef": "master",
-        "RemoteSha": "b48f0a496a5691b36465620dccf65c4d523b9d6c"
+        "Packaged": "2021-03-19 11:48:18 UTC; root",
+        "Built": "R 3.6.3; ; 2021-03-29 09:49:31 UTC; windows",
+        "RemoteType": "repository",
+        "Remotes": "Argus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/argus.data.preparation",
+        "RemoteSha": "6fe00456876ee82bc8c2594ada0a1b91e639aabf"
       }
     },
     "argusDS.smoothers": {
@@ -5482,6 +5457,63 @@
         "Built": "R 3.6.2; ; 2020-02-19 04:52:06 UTC; windows"
       }
     },
+    "reactR": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "reactR",
+        "Type": "Package",
+        "Title": "React Helpers",
+        "Version": "0.4.4",
+        "Date": "2021-02-20",
+        "Authors@R": "c(\n      person(\n        \"Facebook\", \"Inc\"\n        , role = c(\"aut\", \"cph\")\n        , comment = \"React library in lib, https://reactjs.org/; see AUTHORS for full list of contributors\"\n      ),\n      person(\n        \"Michel\",\"Weststrate\",\n        , role = c(\"aut\", \"cph\")\n        , comment = \"mobx library in lib, https://github.com/mobxjs\"\n      ),\n      person(\n        \"Kent\", \"Russell\"\n        , role = c(\"aut\", \"cre\")\n        , comment = \"R interface\"\n        , email = \"kent.russell@timelyportfolio.com\"\n      ),\n      person(\n        \"Alan\", \"Dipert\"\n        , role = c(\"aut\")\n        , comment = \"R interface\"\n        , email = \"alan@rstudio.com\"\n      )\n    )",
+        "Maintainer": "Kent Russell <kent.russell@timelyportfolio.com>",
+        "Description": "Make it easy to use 'React' in R with 'htmlwidget' scaffolds,\n              helper dependency functions, an embedded 'Babel' 'transpiler',\n              and examples.",
+        "URL": "https://github.com/react-R/reactR",
+        "BugReports": "https://github.com/react-R/reactR/issues",
+        "License": "MIT + file LICENSE",
+        "LazyData": "TRUE",
+        "Encoding": "UTF-8",
+        "Imports": "htmltools",
+        "Suggests": "htmlwidgets (>= 1.5.3), rmarkdown, shiny, V8, knitr, usethis,\njsonlite",
+        "RoxygenNote": "7.1.1",
+        "VignetteBuilder": "knitr",
+        "NeedsCompilation": "no",
+        "Packaged": "2021-02-21 15:11:04 UTC; kentr",
+        "Author": "Facebook Inc [aut, cph] (React library in lib, https://reactjs.org/;\n    see AUTHORS for full list of contributors),\n  Michel Weststrate [aut, cph] (mobx library in lib,\n    https://github.com/mobxjs),\n  Kent Russell [aut, cre] (R interface),\n  Alan Dipert [aut] (R interface)",
+        "Repository": "CRAN",
+        "Date/Publication": "2021-02-22 14:50:06 UTC",
+        "Built": "R 3.6.3; ; 2021-02-27 23:01:27 UTC; windows"
+      }
+    },
+    "reactable": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "reactable",
+        "Type": "Package",
+        "Title": "Interactive Data Tables Based on 'React Table'",
+        "Version": "0.2.3",
+        "Authors@R": "c(\n    person(\"Greg\", \"Lin\", email = \"glin@glin.io\", role = c(\"aut\", \"cre\")),\n    person(\"Tanner\", \"Linsley\", role = c(\"ctb\", \"cph\"), comment = \"React Table library\"),\n    person(family = \"Emotion team and other contributors\", role = c(\"ctb\", \"cph\"),\n           comment = \"Emotion library\")\n    )",
+        "Description": "Interactive data tables for R, based on the 'React Table'\n    JavaScript library. Provides an HTML widget that can be used in 'R Markdown'\n    documents and 'Shiny' applications, or viewed from an R console.",
+        "License": "MIT + file LICENSE",
+        "URL": "https://glin.github.io/reactable/,\nhttps://github.com/glin/reactable",
+        "BugReports": "https://github.com/glin/reactable/issues",
+        "Depends": "R (>= 3.1)",
+        "Imports": "digest, htmltools, htmlwidgets, jsonlite, reactR",
+        "Suggests": "covr, crosstalk, dplyr, leaflet, MASS, rmarkdown, shiny,\nsparkline, testthat",
+        "Encoding": "UTF-8",
+        "LazyData": "true",
+        "RoxygenNote": "7.1.1",
+        "NeedsCompilation": "no",
+        "Packaged": "2020-10-04 21:31:55 UTC; greg",
+        "Author": "Greg Lin [aut, cre],\n  Tanner Linsley [ctb, cph] (React Table library),\n  Emotion team and other contributors [ctb, cph] (Emotion library)",
+        "Maintainer": "Greg Lin <glin@glin.io>",
+        "Repository": "CRAN",
+        "Date/Publication": "2020-10-04 21:50:02 UTC",
+        "Built": "R 3.6.3; ; 2021-02-28 09:13:36 UTC; windows"
+      }
+    },
     "readr": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org/",
@@ -7395,22 +7427,22 @@
       "checksum": "612cf9254afcc3d3adc6af411d580e2f"
     },
     "packrat/desc/argus.DS.Credentials": {
-      "checksum": "9c8a620598db89cbf404f93c8d671013"
+      "checksum": "0275e3344eb7fdb525c680cbb064cd15"
     },
     "packrat/desc/argus.model.performance": {
-      "checksum": "e11b71b8c1803a9c5d4726fc497a2830"
+      "checksum": "76ceb144dc394e8ea839f3ee02e38957"
     },
     "packrat/desc/argusDS.data.engineering": {
-      "checksum": "542776d2aa9a504cca10ea201d1d9ea6"
+      "checksum": "b9be760b5efd777c35ec8919d6c9363a"
     },
     "packrat/desc/argusDS.data.preparation": {
-      "checksum": "c38a014394a449efbef996513646c044"
+      "checksum": "a0540f427dfd2330f4fc535be493ed77"
     },
     "packrat/desc/argusDS.data.visualisation": {
       "checksum": "6ff2e5d52a7d5a4c28afb7af4bfc0fa4"
     },
     "packrat/desc/argusDS.database": {
-      "checksum": "220bfba66a8129e8e0a6dc2d29da6fac"
+      "checksum": "a253e3cde614a2d0ddb56c3c9228fabb"
     },
     "packrat/desc/argusDS.DB.manager.utilities": {
       "checksum": "4b370c73189e62581776c83a1d9e1061"
@@ -7419,19 +7451,19 @@
       "checksum": "9fd44e0cd39ca13d2ed40dcafd5e368b"
     },
     "packrat/desc/argusDS.ds.dashboard": {
-      "checksum": "1ba9dc37f29460cd6341ca5105ad82f8"
+      "checksum": "7f37d8131cd84eaeec5aac071e8626af"
     },
     "packrat/desc/argusDS.GlobalSettings": {
-      "checksum": "3743a747d2b4201f1810078f45d20014"
+      "checksum": "f11d96178218193a41ab1c2b02ffc7e2"
     },
     "packrat/desc/argusDS.model.testing": {
-      "checksum": "d2d0e01db7137297ba5b56785b4a9452"
+      "checksum": "31b972f150a85d4f4c1a22fc425811bf"
     },
     "packrat/desc/argusDS.modeldb": {
-      "checksum": "58a52fa39837aa76d28e89d43a5158af"
+      "checksum": "57bb39d6829878db6be5976eb3839932"
     },
     "packrat/desc/argusDS.PossibilityCurves.utils": {
-      "checksum": "df6b67581987a140c3557d4eb9a832f8"
+      "checksum": "2a30b536911b954e3e2d37b1db3b8b7a"
     },
     "packrat/desc/argusDS.smoothers": {
       "checksum": "262eaa09f266356676ab3051e8307ef4"
@@ -7991,6 +8023,12 @@
     "packrat/desc/RCurl": {
       "checksum": "f5690b88e1c408ce8c68837def96e845"
     },
+    "packrat/desc/reactable": {
+      "checksum": "2b9d8e56428e3839fcbe72aff82ef75c"
+    },
+    "packrat/desc/reactR": {
+      "checksum": "801d23cf4655e1b642c87738f8ab3dd3"
+    },
     "packrat/desc/readr": {
       "checksum": "e6caf08ab3f407a9c3ed3f9d2cfa094e"
     },
@@ -8235,7 +8273,7 @@
       "checksum": "f1dd9fef8808026023142df327c2f296"
     },
     "packrat/packrat.lock": {
-      "checksum": "763c4455a66fc7668af2390923665d54"
+      "checksum": "5627a00173e0c074a41678122a96d9b2"
     }
   },
   "users": null

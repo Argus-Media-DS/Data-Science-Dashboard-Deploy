@@ -1,0 +1,7 @@
+.First <- function(){
+  r <- getOption("repos")
+ # r["CRAN"] <- "https://cran.rstudio.com/"
+  r["argus"] <- "https://rspm.argusmedia.com/live/latest/"
+  r["RSPM"] <- "https://rspm.argusmedia.com/live/latest/"
+  options(repos = r)
+}
