@@ -9,6 +9,10 @@
       {
         "Name": "argus",
         "URL": "https://rspm.argusmedia.com/live/latest"
+      },
+      {
+        "Name": "RSPM",
+        "URL": "https://rspm.argusmedia.com/live/latest"
       }
     ]
   },
@@ -123,9 +127,10 @@
       "Version": "0.1.17.0",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Data-Visualisation/argusDS.data.visualisation,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Smoothers/argusDS.smoothers,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering",
       "RemoteSha": "ee4f5e028ba1541da3d4b8f82a620e5f4ad2862d",
-      "Hash": "a8e63f04fca4788aee039f94eff4f46a"
+      "Hash": "ed7dcb23fa250066b424b1e1b3276521"
     },
     "Quandl": {
       "Package": "Quandl",
@@ -265,26 +270,29 @@
       "Version": "0.1.6.0",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "RemoteSha": "62f1bf1b06071db5e8ec0c1b73dfda1a4e285c66",
-      "Hash": "c0b4eda24f37dc4f2dea8cd886b7cdbf"
+      "Hash": "8adc35607d2efca9b7cb1adecb92f368"
     },
     "argus.model.performance": {
       "Package": "argus.model.performance",
-      "Version": "0.1.13.0",
+      "Version": "0.1.13.2",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-      "RemoteSha": "f40c853515b8ed4b6b9f4e83be07780ef0307086",
-      "Hash": "02c41cc4e9ebd8fe339db8e437ea1f02"
+      "RemoteSha": "00f631653278cee79e14b041ddfeb05f7ef50192",
+      "Hash": "ffa3c1512564f84e5d4ee847a4752115"
     },
     "argusDS.DB.manager.utilities": {
       "Package": "argusDS.DB.manager.utilities",
       "Version": "0.1.10.0",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Database/argusDS.database",
       "RemoteSha": "271740aa10875f48c3b0326f67223206fd3fb343",
-      "Hash": "6c8993af42740c148d4705079bc81745"
+      "Hash": "71211e5fa37e841e9a60e2b2aff31023"
     },
     "argusDS.GlobalSettings": {
       "Package": "argusDS.GlobalSettings",
@@ -296,12 +304,12 @@
     },
     "argusDS.PossibilityCurves.utils": {
       "Package": "argusDS.PossibilityCurves.utils",
-      "Version": "0.1.10.1",
+      "Version": "0.1.10.2",
       "Source": "Repository",
       "Repository": "RSPM",
       "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-ModelDB/argusDS.modeldb,\nArgus-Media-DS/DS-ModelPerformance",
-      "RemoteSha": "ab838cced384217bc94fe7d61503715e3abb4518",
-      "Hash": "86da2f073ba314a878110d9a2f9d1062"
+      "RemoteSha": "052fda8f93f424ff34af7095dd846ddb08eff4b9",
+      "Hash": "0f25d2139ae1fbdd4d233750ea803ddd"
     },
     "argusDS.data.engineering": {
       "Package": "argusDS.data.engineering",
@@ -313,12 +321,13 @@
     },
     "argusDS.data.preparation": {
       "Package": "argusDS.data.preparation",
-      "Version": "0.2.3.3",
+      "Version": "0.2.3.4",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-      "RemoteSha": "f6160ae1fe36ffecf7a4ecc0ff96c8534fa97c28",
-      "Hash": "a131d9d64256549b348371c6ed26476f"
+      "RemoteSha": "d4a3ace97f25b85b8c85d91c30364c4837164f85",
+      "Hash": "bb3ff7dc05781e76404c07e189517e18"
     },
     "argusDS.data.visualisation": {
       "Package": "argusDS.data.visualisation",
@@ -341,8 +350,9 @@
       "Version": "0.1.0",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "RemoteSha": "77ab085cfac128ac069319eb1fdfc4aea2059335",
-      "Hash": "5703bd2a12ec6347f7bf7c072ae3f698"
+      "Hash": "8dd92ae2df071f3818a05ba0255b6d38"
     },
     "argusDS.model.testing": {
       "Package": "argusDS.model.testing",
@@ -358,17 +368,19 @@
       "Version": "0.1.13.0",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/argus.data.preparation",
       "RemoteSha": "6fe00456876ee82bc8c2594ada0a1b91e639aabf",
-      "Hash": "d9a9ad2a0f9d8b5d96ed3ae451f9e5af"
+      "Hash": "089469e4727204c6102d958a3347624a"
     },
     "argusDS.smoothers": {
       "Package": "argusDS.smoothers",
       "Version": "0.1.1",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
       "RemoteSha": "05ec14f9b5cdd5645567e44a81c4126c851742b1",
-      "Hash": "c64152ec27018165d2159847c8912d7e"
+      "Hash": "c92567aa7e277dc82ebbb80d0170664a"
     },
     "argusDS.utilities": {
       "Package": "argusDS.utilities",
@@ -1022,13 +1034,6 @@
       "Repository": "CRAN",
       "Hash": "7146fea4685b4252ebf478978c75f597"
     },
-    "hunspell": {
-      "Package": "hunspell",
-      "Version": "3.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "71e7853d60b6b4ba891d62ede21752e9"
-    },
     "igraph": {
       "Package": "igraph",
       "Version": "1.2.5",
@@ -1337,13 +1342,6 @@
       "Repository": "CRAN",
       "Hash": "b37932b67288bc62bb81686b2f337a7d"
     },
-    "parsedate": {
-      "Package": "parsedate",
-      "Version": "1.2.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "9ab1426429ad716b42088a0fd8e909ee"
-    },
     "partykit": {
       "Package": "partykit",
       "Version": "1.2-7",
@@ -1505,13 +1503,6 @@
       "Repository": "CRAN",
       "Hash": "21b20702f0e8e171a81a5d9d75f2b2fd"
     },
-    "rappdirs": {
-      "Package": "rappdirs",
-      "Version": "0.3.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "8c8298583adbbe76f3c2220eef71bebc"
-    },
     "rcmdcheck": {
       "Package": "rcmdcheck",
       "Version": "1.3.3",
@@ -1602,13 +1593,6 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "6d3dbb5d528c8f726861018472bc668c"
-    },
-    "rhub": {
-      "Package": "rhub",
-      "Version": "1.1.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "977cce19c029acc6d88a1c861f224819"
     },
     "rio": {
       "Package": "rio",
@@ -1806,13 +1790,6 @@
       "Repository": "CRAN",
       "Hash": "2136b440022fad1fdbbebae6af9ea535"
     },
-    "spelling": {
-      "Package": "spelling",
-      "Version": "2.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "b3a5ecc3351f41eb30ef87f65cbff390"
-    },
     "stabledist": {
       "Package": "stabledist",
       "Version": "0.7-1",
@@ -1946,13 +1923,6 @@
       "Repository": "CRAN",
       "Hash": "4a5081acfb7b81a572e4384a7aaf2af1"
     },
-    "uuid": {
-      "Package": "uuid",
-      "Version": "0.1-4",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "e4169eb989a5d03ccb6b628cad1b1b50"
-    },
     "vctrs": {
       "Package": "vctrs",
       "Version": "0.3.5",
@@ -1994,13 +1964,6 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "ca970b96d894e90397ed20637a0c1bbe"
-    },
-    "whoami": {
-      "Package": "whoami",
-      "Version": "1.3.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "ef0f4d9b8f2cc2ebeccae1d725b8a023"
     },
     "withr": {
       "Package": "withr",

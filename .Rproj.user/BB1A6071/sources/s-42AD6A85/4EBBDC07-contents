@@ -1,2 +1,0 @@
-install.packages('argusDS.ds.dashboard')
-rsconnect::writeManifest()

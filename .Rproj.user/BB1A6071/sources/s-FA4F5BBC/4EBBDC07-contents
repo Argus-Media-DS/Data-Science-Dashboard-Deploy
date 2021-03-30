@@ -1,11 +1,12 @@
-library(argusDS.ds.dashboard)
-argusDS.ds.dashboard::run_app(load_date_from = lubridate::ymd("2005-01-01")) #add parameters here
-
-# install.packages('argusDS.ds.dashboard')
-# rsconnect::writeManifest()
+install.packages('argusDS.ds.dashboard')
+rsconnect::writeManifest()
 #install.packages("argusDS.ds.dashboard", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
 # renv::snapshot()
-# renv::purge("argusDS.model.testing")
+# renv::purge("argusDS.GlobalSettings")
+# renv::purge("argusDS.database ")
+# install.packages("argusDS.GlobalSettings", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+# install.packages("argusDS.database", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+
 # install.packages("argusDS.model.testing", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
 # install.packages("argusDS.data.preparation", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
 # install.packages("argus.model.performance", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
