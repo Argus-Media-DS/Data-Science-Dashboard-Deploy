@@ -1172,14 +1172,14 @@
         "VignetteBuilder": "knitr",
         "Language": "en-US",
         "Repository": "RSPM",
-        "RemoteSha": "f1b4ee544ae53b5332b4042586bbd69982dcb942",
-        "Version": "0.0.1.052",
-        "Date": "2021-03-30",
+        "RemoteSha": "8e7ee5ca3e280eb4796a3614016f8905acb4753f",
+        "Version": "0.0.1.053",
+        "Date": "2021-03-31",
         "NeedsCompilation": "no",
-        "Packaged": "2021-03-30 13:57:09 UTC; root",
+        "Packaged": "2021-03-31 00:28:10 UTC; root",
         "Author": "Argus ML/AI Quants Argus ML/AI Quants [cre, aut]",
         "Maintainer": "Argus ML/AI Quants Argus ML/AI Quants <DataScience@argusmedia.com>",
-        "Built": "R 3.6.3; ; 2021-03-30 13:57:35 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-03-31 00:30:59 UTC; windows"
       }
     },
     "argusDS.model.testing": {
@@ -7447,7 +7447,7 @@
       "checksum": "9fd44e0cd39ca13d2ed40dcafd5e368b"
     },
     "packrat/desc/argusDS.ds.dashboard": {
-      "checksum": "166164f61249c81e7387741c4576ffa3"
+      "checksum": "fc2bc9092510e31571123baa7ab6fbfb"
     },
     "packrat/desc/argusDS.GlobalSettings": {
       "checksum": "9f9dcb2764a4a9df2f86186903a32e4d"
@@ -8269,7 +8269,7 @@
       "checksum": "f1dd9fef8808026023142df327c2f296"
     },
     "packrat/packrat.lock": {
-      "checksum": "6821323676c8b9e866a0f5ad24e80727"
+      "checksum": "d3527751af544a09affffa415f2865da"
     }
   },
   "users": null
