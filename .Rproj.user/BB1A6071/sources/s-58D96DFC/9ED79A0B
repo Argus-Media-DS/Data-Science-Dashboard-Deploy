@@ -1,0 +1,24 @@
+{
+    "id": "9ED79A0B",
+    "path": "~/GitHub/Data-Science-Dashboard-Deploy/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1618612323008.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "7,2",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618614514,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618614514362,
+    "read_only": false,
+    "read_only_alternatives": []
+}

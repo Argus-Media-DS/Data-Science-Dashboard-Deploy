@@ -407,15 +407,14 @@
         "Suggests": "testthat, data.table",
         "RoxygenNote": "7.1.1",
         "Imports": "magrittr, mailR, gamlss, tictoc, mailR, usethis,\nargusDS.data.visualisation, argusDS.database,\nargusDS.model.testing, argusDS.smoothers, argusDS.utilities,\nargusDS.data.preparation, argusDS.data.engineering,\nargus.DS.Credentials, plotly, furrr",
+        "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Data-Visualisation/argusDS.data.visualisation,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Smoothers/argusDS.smoothers,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering",
         "Repository": "RSPM",
+        "RemoteSha": "ee4f5e028ba1541da3d4b8f82a620e5f4ad2862d",
         "Version": "0.1.17.0",
         "Date": "2020-10-09",
         "NeedsCompilation": "no",
         "Packaged": "2020-10-09 14:36:32 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-23 11:35:36 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Data-Visualisation/argusDS.data.visualisation,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Smoothers/argusDS.smoothers,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering",
-        "RemoteSha": "ee4f5e028ba1541da3d4b8f82a620e5f4ad2862d"
+        "Built": "R 3.6.3; ; 2021-04-16 22:38:59 UTC; windows"
       }
     },
     "Quandl": {
@@ -907,17 +906,18 @@
         "Maintainer": "Argus Media - Data Science <DataScience@argusmedia.com>",
         "Description": "A package to get user credentials.",
         "License": "GPL-3",
+        "Imports": "argusDS.utilities, dplyr",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities",
         "Repository": "RSPM",
-        "Version": "0.1.6.0",
-        "Date": "2020-10-02",
+        "RemoteSha": "0266747ac74dbee874bef85f11ffce11dda155f4",
+        "Version": "0.1.6.1",
+        "Date": "2021-04-16",
         "NeedsCompilation": "no",
-        "Packaged": "2020-10-02 15:19:22 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 10:17:16 UTC; windows",
-        "RemoteType": "repository",
-        "RemoteSha": "62f1bf1b06071db5e8ec0c1b73dfda1a4e285c66"
+        "Packaged": "2021-04-16 09:09:40 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:33:55 UTC; windows"
       }
     },
     "argus.model.performance": {
@@ -934,17 +934,16 @@
         "Encoding": "UTF-8",
         "LazyData": "true",
         "Depends": "R (>= 3.5.0), data.table, lubridate",
-        "Imports": "argusDS.data.engineering, argusDS.utilities,\nargusDS.data.preparation, argusDS.GlobalSettings, data.table,\nlubridate, aws.s3, stringr, furrr, magrittr, usethis",
+        "Imports": "argusDS.data.engineering, argusDS.utilities,\nargusDS.data.preparation, argusDS.GlobalSettings, data.table,\nlubridate, aws.s3, glue, DBI, htmlTable, stringr, furrr,\nmagrittr, usethis",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "Version": "0.1.13.2",
-        "Date": "2021-03-30",
+        "RemoteSha": "849c8e4c6c8cdf5ab7136adc9237fe9cfdfaa9c0",
+        "Version": "0.1.13.4",
+        "Date": "2021-04-16",
         "NeedsCompilation": "no",
-        "Packaged": "2021-03-29 23:52:16 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 12:21:22 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-        "RemoteSha": "00f631653278cee79e14b041ddfeb05f7ef50192"
+        "Packaged": "2021-04-16 09:41:23 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:37:04 UTC; windows"
       }
     },
     "argusDS.DB.manager.utilities": {
@@ -958,21 +957,20 @@
         "Maintainer": "Argus Media - Data Science <ai@argusmedia.com>",
         "Description": "R functions to get data from internal and external data sources.",
         "License": "GPL-3",
-        "Depends": "R (>= 3.5.0), DBI, Quandl, RCurl, RMySQL, bit64, data.table,\ndevtools, plyr, dplyr, jsonlite, lubridate, rjson, tictoc, zoo",
-        "Imports": "DBI, Quandl, RCurl, RMySQL, bit64, plyr, data.table, devtools,\ndplyr, jsonlite, lubridate, rjson, tictoc, zoo,\nargusDS.database",
+        "Depends": "R (>= 3.5.0), DBI, Quandl, RCurl, RMySQL, bit64, devtools,\ndata.table, plyr, dplyr, jsonlite, lubridate, rjson, tictoc,\nzoo",
+        "Imports": "DBI, Quandl, RCurl, RMySQL, bit64, plyr, data.table, devtools,\ndplyr, jsonlite, lubridate, rjson, tictoc, zoo,\nargusDS.database, magrittr, usethis, glue",
+        "Remotes": "Argus-Media-DS/DS-Database/argusDS.database",
         "Suggests": "mailR",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "Version": "0.1.10.0",
-        "Date": "2021-02-02",
+        "RemoteSha": "cb7f9b5fcf1345a9ba742f3b0e0844c52feaedc0",
+        "Version": "0.1.10.2",
+        "Date": "2021-04-12",
         "NeedsCompilation": "no",
-        "Packaged": "2021-02-02 17:49:42 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-23 11:33:56 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Database/argusDS.database",
-        "RemoteSha": "271740aa10875f48c3b0326f67223206fd3fb343"
+        "Packaged": "2021-04-12 10:30:22 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:37:37 UTC; windows"
       }
     },
     "argusDS.GlobalSettings": {
@@ -995,7 +993,7 @@
         "Date": "2021-02-22",
         "NeedsCompilation": "no",
         "Packaged": "2021-02-22 10:41:24 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 12:44:41 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-04-16 22:34:55 UTC; windows"
       }
     },
     "argusDS.PossibilityCurves.utils": {
@@ -1021,7 +1019,7 @@
         "Date": "2021-03-28",
         "NeedsCompilation": "no",
         "Packaged": "2021-03-28 19:03:09 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 11:51:40 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-04-16 22:38:30 UTC; windows"
       }
     },
     "argusDS.data.engineering": {
@@ -1035,18 +1033,19 @@
         "Maintainer": "Argus Media - Data Science <ai@argusmedia.com>",
         "Description": "An R interface to the Data Engineering functions created by Argus.",
         "License": "GPL-3",
-        "Depends": "R (>= 3.5.0), pacman, RMySQL, RODBC, jsonlite, data.table,\nbit64, DBI, DT, curl, parallel, TTR, tictoc, quantmod,\nfTrading, zoo, PerformanceAnalytics",
-        "Imports": "pacman, RMySQL, RODBC, jsonlite, data.table, bit64, DBI, DT,\ncurl, parallel, TTR, tictoc, quantmod, fTrading, zoo,\nPerformanceAnalytics",
+        "Imports": "dplyr, pacman, RMySQL, RODBC, jsonlite, data.table, bit64,\nDBI, DT, curl, parallel, TTR, tictoc, quantmod, fTrading, zoo,\nPerformanceAnalytics, argusDS.utilities, gamlss, gamlss.dist,\nargusDS.model.testing, magrittr, usethis, lubridate",
         "Encoding": "UTF-8",
         "LazyData": "true",
-        "RoxygenNote": "7.1.0",
+        "RoxygenNote": "7.1.1",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing",
+        "Suggests": "testthat",
         "Repository": "RSPM",
-        "RemoteSha": "0fdc25c17fab6485644a9daaa74f66c2a0395526",
-        "Version": "0.1.1.0",
-        "Date": "2020-09-04",
+        "RemoteSha": "adccab6e7cabe75b29d0b00333a0d4f897bcae5e",
+        "Version": "0.1.1.2",
+        "Date": "2021-04-12",
         "NeedsCompilation": "no",
-        "Packaged": "2020-09-04 13:58:49 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 12:22:32 UTC; windows"
+        "Packaged": "2021-04-12 11:12:57 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:35:59 UTC; windows"
       }
     },
     "argusDS.data.preparation": {
@@ -1066,15 +1065,14 @@
         "RoxygenNote": "7.1.1",
         "Suggests": "testthat",
         "Imports": "argusDS.database, argusDS.model.testing,\nargusDS.data.engineering, aws.s3, argusDS.GlobalSettings",
-        "Repository": "RSPM",
-        "Version": "0.2.3.4",
-        "Date": "2021-03-28",
-        "NeedsCompilation": "no",
-        "Packaged": "2021-03-28 19:02:59 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 12:20:30 UTC; windows",
-        "RemoteType": "repository",
         "Remotes": "Argus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-        "RemoteSha": "d4a3ace97f25b85b8c85d91c30364c4837164f85"
+        "Repository": "RSPM",
+        "RemoteSha": "03743425f06ef0d5b4cbbbc999ea13bf93bd178a",
+        "Version": "0.2.3.5",
+        "Date": "2021-04-06",
+        "NeedsCompilation": "no",
+        "Packaged": "2021-04-06 08:57:51 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:36:17 UTC; windows"
       }
     },
     "argusDS.data.visualisation": {
@@ -1099,7 +1097,7 @@
         "Date": "2021-02-24",
         "NeedsCompilation": "no",
         "Packaged": "2021-02-25 11:43:25 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 11:51:19 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-04-16 22:37:16 UTC; windows"
       }
     },
     "argusDS.database": {
@@ -1113,18 +1111,18 @@
         "Maintainer": "Argus Media - Data Science <ai@argusmedia.com>",
         "Description": "An R Interface to Argus Media Databases. The user can access data from ARGUS MEDIA databases (Prices, Fundamentals Data). It also provides the functionality to retrieve data from GTT.",
         "License": "GPL-3",
-        "Depends": "R (>= 3.5.0), pacman, RMySQL, RODBC, jsonlite, data.table,\nbit64, DBI, DT, curl, parallel, odbc",
-        "Imports": "pacman, RMySQL, RODBC, jsonlite, data.table, bit64, DBI, DT,\ncurl, parallel, odbc",
+        "Imports": "data.table, magrittr, usethis, lubridate, purrr, parallel,\njsonlite, DBI, RODBC, odbc, RMySQL, argus.DS.Credentials",
+        "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "RemoteSha": "6fc0bd0b19b12e5bc7b17f08c7939b689144f25d",
-        "Version": "0.1.6",
-        "Date": "2021-01-26",
+        "RemoteSha": "137063944197d832bc3b2e5473c7ae8f9f7eb7ac",
+        "Version": "0.1.7",
+        "Date": "2021-04-09",
         "NeedsCompilation": "no",
-        "Packaged": "2021-01-26 14:48:19 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 12:44:47 UTC; windows"
+        "Packaged": "2021-04-09 15:37:26 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:35:33 UTC; windows"
       }
     },
     "argusDS.distributions": {
@@ -1145,13 +1143,12 @@
         "RoxygenNote": "6.1.1",
         "Suggests": "testthat",
         "Repository": "RSPM",
+        "RemoteSha": "77ab085cfac128ac069319eb1fdfc4aea2059335",
         "Version": "0.1.0",
         "Date": "2020-04-07",
         "NeedsCompilation": "no",
         "Packaged": "2020-05-28 16:11:13 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 12:02:13 UTC; windows",
-        "RemoteType": "repository",
-        "RemoteSha": "77ab085cfac128ac069319eb1fdfc4aea2059335"
+        "Built": "R 3.6.3; ; 2021-04-16 22:37:53 UTC; windows"
       }
     },
     "argusDS.ds.dashboard": {
@@ -1172,14 +1169,14 @@
         "VignetteBuilder": "knitr",
         "Language": "en-US",
         "Repository": "RSPM",
-        "RemoteSha": "a96252a19036c3ab1896ccfe6ad37b71f10e35d5",
-        "Version": "0.0.1.056",
-        "Date": "2021-04-01",
+        "RemoteSha": "fb31dbf58aceb00856d45dae09bc8c27430c0736",
+        "Version": "0.0.1.063",
+        "Date": "2021-04-16",
         "NeedsCompilation": "no",
-        "Packaged": "2021-04-01 12:40:06 UTC; root",
+        "Packaged": "2021-04-16 22:16:06 UTC; root",
         "Author": "Argus ML/AI Quants Argus ML/AI Quants [cre, aut]",
         "Maintainer": "Argus ML/AI Quants Argus ML/AI Quants <DataScience@argusmedia.com>",
-        "Built": "R 3.6.3; ; 2021-04-01 12:40:43 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-04-16 22:39:46 UTC; windows"
       }
     },
     "argusDS.model.testing": {
@@ -1205,7 +1202,7 @@
         "Date": "2021-03-19",
         "NeedsCompilation": "no",
         "Packaged": "2021-03-19 15:05:01 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 12:42:36 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-04-16 22:35:41 UTC; windows"
       }
     },
     "argusDS.modeldb": {
@@ -1219,19 +1216,18 @@
         "Maintainer": "Ferhat Culfaz <ferhat.culfaz@argusmedia.com>",
         "Description": "This package can be used to populate the modelDB as well as\n    retrieve from modelDB.",
         "License": "GPL-3",
-        "Imports": "data.table, devtools, dplyr, lubridate, RMySQL, stringr,\ntidyr, wkb, Xmisc (>= 0.2.1), argusDS.data.preparation (>=\n0.1.5.4), argusDS.data.engineering (>= 0.1.0), argusDS.database\n(>= 0.1.2), argus.DS.Credentials (>= 0.1.2), argusDS.utilities\n(>= 0.2.3), argusDS.GlobalSettings (>= 0.1.2),\nargusDS.model.testing (>= 0.1.1), aws.s3, mailR, magrittr,\nusethis",
+        "Imports": "data.table, devtools, dplyr, glue, DBI, lubridate, RMySQL,\nstringr, tidyr, wkb, Xmisc (>= 0.2.1), argusDS.data.preparation\n(>= 0.1.5.4), argusDS.data.engineering (>= 0.1.0),\nargusDS.database (>= 0.1.2), argus.DS.Credentials (>= 0.1.2),\nargusDS.utilities (>= 0.2.3), argusDS.GlobalSettings (>=\n0.1.2), argusDS.model.testing (>= 0.1.1), aws.s3, mailR,\nmagrittr, usethis",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
-        "Repository": "RSPM",
-        "Version": "0.1.13.0",
-        "Date": "2021-03-19",
-        "NeedsCompilation": "no",
-        "Packaged": "2021-03-19 11:48:18 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-30 12:20:56 UTC; windows",
-        "RemoteType": "repository",
         "Remotes": "Argus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/argus.data.preparation",
-        "RemoteSha": "6fe00456876ee82bc8c2594ada0a1b91e639aabf"
+        "Repository": "RSPM",
+        "RemoteSha": "64e6d6f5218ec259ac70ccad701a847412c6ee29",
+        "Version": "0.1.13.2",
+        "Date": "2021-04-16",
+        "NeedsCompilation": "no",
+        "Packaged": "2021-04-16 09:14:32 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:38:08 UTC; windows"
       }
     },
     "argusDS.smoothers": {
@@ -1251,13 +1247,12 @@
         "LazyData": "true",
         "RoxygenNote": "7.1.0",
         "Repository": "RSPM",
+        "RemoteSha": "05ec14f9b5cdd5645567e44a81c4126c851742b1",
         "Version": "0.1.1",
         "Date": "2020-06-18",
         "NeedsCompilation": "no",
         "Packaged": "2020-06-18 14:21:36 UTC; root",
-        "Built": "R 3.6.3; ; 2021-03-02 12:02:59 UTC; windows",
-        "RemoteType": "repository",
-        "RemoteSha": "05ec14f9b5cdd5645567e44a81c4126c851742b1"
+        "Built": "R 3.6.3; ; 2021-04-16 22:38:45 UTC; windows"
       }
     },
     "argusDS.utilities": {
@@ -1276,14 +1271,14 @@
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.0",
-        "Imports": "magrittr, stringr, usethis",
+        "Imports": "magrittr, stringr, usethis, lubridate",
         "Repository": "RSPM",
-        "RemoteSha": "766c945b32af591ccf724c68757cd4e8f7b9c222",
-        "Version": "0.2.5.0",
-        "Date": "2020-08-07",
+        "RemoteSha": "d7a10aaf71d77701f77facc9ccf3890b5e99c817",
+        "Version": "0.2.5.2",
+        "Date": "2021-04-09",
         "NeedsCompilation": "no",
-        "Packaged": "2020-08-07 16:08:13 UTC; root",
-        "Built": "R 3.6.3; ; 2020-09-07 11:43:19 UTC; windows"
+        "Packaged": "2021-04-09 15:42:56 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 22:33:30 UTC; windows"
       }
     },
     "askpass": {
@@ -1793,6 +1788,37 @@
         "Repository": "CRAN",
         "Date/Publication": "2016-07-27 03:17:48",
         "Built": "R 3.6.3; ; 2020-09-17 17:45:43 UTC; windows"
+      }
+    },
+    "checkmate": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "checkmate",
+        "Type": "Package",
+        "Title": "Fast and Versatile Argument Checks",
+        "Description": "Tests and assertions to perform frequent argument checks. A\n    substantial part of the package was written in C to minimize any worries\n    about execution time overhead.",
+        "Version": "2.0.0",
+        "Authors@R": "c(\n    person(\"Michel\", \"Lang\", NULL, \"michellang@gmail.com\",\n      role = c(\"cre\", \"aut\"), comment = c(ORCID = \"0000-0001-9754-0393\")),\n    person(\"Bernd\", \"Bischl\", NULL, \"bernd_bischl@gmx.net\", role = \"ctb\")\n    )",
+        "URL": "https://github.com/mllg/checkmate",
+        "URLNote": "https://github.com/mllg/checkmate",
+        "BugReports": "https://github.com/mllg/checkmate/issues",
+        "NeedsCompilation": "yes",
+        "ByteCompile": "yes",
+        "Encoding": "UTF-8",
+        "Depends": "R (>= 3.0.0)",
+        "Imports": "backports (>= 1.1.0), utils",
+        "Suggests": "R6, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,\nknitr, magrittr, microbenchmark, rmarkdown, testthat (>=\n0.11.0), tinytest (>= 1.1.0), tibble",
+        "License": "BSD_3_clause + file LICENSE",
+        "VignetteBuilder": "knitr",
+        "RoxygenNote": "7.0.2",
+        "Collate": "'AssertCollection.R' 'allMissing.R' 'anyInfinite.R'\n'anyMissing.R' 'anyNaN.R' 'asInteger.R' 'assert.R' 'helper.R'\n'makeExpectation.R' 'makeTest.R' 'makeAssertion.R'\n'checkAccess.R' 'checkArray.R' 'checkAtomic.R'\n'checkAtomicVector.R' 'checkCharacter.R' 'checkChoice.R'\n'checkClass.R' 'checkComplex.R' 'checkCount.R'\n'checkDataFrame.R' 'checkDataTable.R' 'checkDate.R'\n'checkDirectoryExists.R' 'checkDisjunct.R' 'checkDouble.R'\n'checkEnvironment.R' 'checkFALSE.R' 'checkFactor.R'\n'checkFileExists.R' 'checkFlag.R' 'checkFormula.R'\n'checkFunction.R' 'checkInt.R' 'checkInteger.R'\n'checkIntegerish.R' 'checkList.R' 'checkLogical.R'\n'checkMatrix.R' 'checkMultiClass.R' 'checkNamed.R'\n'checkNames.R' 'checkNull.R' 'checkNumber.R' 'checkNumeric.R'\n'checkOS.R' 'checkPOSIXct.R' 'checkPathForOutput.R' 'checkR6.R'\n'checkRaw.R' 'checkScalar.R' 'checkScalarNA.R'\n'checkSetEqual.R' 'checkString.R' 'checkSubset.R' 'checkTRUE.R'\n'checkTibble.R' 'checkVector.R' 'coalesce.R' 'isIntegerish.R'\n'matchArg.R' 'qassert.R' 'qassertr.R' 'vname.R' 'wfwl.R'\n'zzz.R'",
+        "Packaged": "2020-02-05 12:51:29 UTC; michel",
+        "Author": "Michel Lang [cre, aut] (<https://orcid.org/0000-0001-9754-0393>),\n  Bernd Bischl [ctb]",
+        "Maintainer": "Michel Lang <michellang@gmail.com>",
+        "Repository": "CRAN",
+        "Date/Publication": "2020-02-06 01:00:13 UTC",
+        "Built": "R 3.6.3; x86_64-w64-mingw32; 2021-04-14 02:39:29 UTC; windows"
       }
     },
     "chron": {
@@ -3612,6 +3638,33 @@
         "Repository": "CRAN",
         "Date/Publication": "2020-01-08 23:01:22 UTC",
         "Built": "R 3.6.3; ; 2020-05-05 02:29:04 UTC; windows"
+      }
+    },
+    "htmlTable": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "htmlTable",
+        "Version": "2.1.0",
+        "Title": "Advanced Tables for Markdown/HTML",
+        "Authors@R": "c(\n  person(\"Max\", \"Gordon\", email = \"max@gforge.se\",\n         role = c(\"aut\", \"cre\")),\n  person(\"Stephen\", \"Gragg\", role=c(\"aut\")),\n  person(\"Peter\", \"Konings\", role=c(\"aut\")))",
+        "Maintainer": "Max Gordon <max@gforge.se>",
+        "Description": "Tables with state-of-the-art layout elements such as row spanners,\n    column spanners, table spanners, zebra striping, and more. While allowing\n    advanced layout, the underlying css-structure is simple in order to maximize\n    compatibility with word processors such as 'MS Word' or 'LibreOffice'. The package\n    also contains a few text formatting functions that help outputting text\n    compatible with HTML/LaTeX.",
+        "License": "GPL (>= 3)",
+        "URL": "https://gforge.se/packages/",
+        "BugReports": "https://github.com/gforge/htmlTable/issues",
+        "Biarch": "yes",
+        "Imports": "stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,\ncheckmate, htmlwidgets, htmltools, rstudioapi (>= 0.6)",
+        "Suggests": "testthat, XML, xml2, Hmisc, reshape, rmarkdown, chron,\nlubridate, tibble, purrr, tidyselect, glue, rlang, tidyr (>=\n0.7.2), dplyr (>= 0.7.4)",
+        "Encoding": "UTF-8",
+        "NeedsCompilation": "no",
+        "VignetteBuilder": "knitr",
+        "RoxygenNote": "7.1.1",
+        "Packaged": "2020-09-16 20:11:49 UTC; max",
+        "Author": "Max Gordon [aut, cre],\n  Stephen Gragg [aut],\n  Peter Konings [aut]",
+        "Repository": "CRAN",
+        "Date/Publication": "2020-09-16 21:10:02 UTC",
+        "Built": "R 3.6.3; ; 2021-04-14 06:26:48 UTC; windows"
       }
     },
     "htmltools": {
@@ -7414,7 +7467,7 @@
       "checksum": "53e02654a0f59ff88e7f58c0c3fa7268"
     },
     "app.R": {
-      "checksum": "1276a2fa9e5c47d58687bbe6fcbbb1f5"
+      "checksum": "8ec714262d54ee6a4177060b76a611a9"
     },
     "packrat/desc/abind": {
       "checksum": "d1b224f59dd9b6cc44c5f706515e5111"
@@ -7423,49 +7476,49 @@
       "checksum": "612cf9254afcc3d3adc6af411d580e2f"
     },
     "packrat/desc/argus.DS.Credentials": {
-      "checksum": "9c8a620598db89cbf404f93c8d671013"
+      "checksum": "e183331fba387cd01754f915195a613b"
     },
     "packrat/desc/argus.model.performance": {
-      "checksum": "97fe82007720f8ee92a217f80edc9f39"
+      "checksum": "73fd660fd4bab61819dc6e3d5f599a25"
     },
     "packrat/desc/argusDS.data.engineering": {
-      "checksum": "b1343cfa93d9e6504567d5edff5c176f"
+      "checksum": "151a9ee8163dcdeee3410c1505e48ddb"
     },
     "packrat/desc/argusDS.data.preparation": {
-      "checksum": "e5049e3e31ab59eb452b8c99b07bc6f4"
+      "checksum": "b27c2efa340193f499a2131991db350c"
     },
     "packrat/desc/argusDS.data.visualisation": {
-      "checksum": "6ff2e5d52a7d5a4c28afb7af4bfc0fa4"
+      "checksum": "73d0c1a6f8bfaa3b4b70972f79f8882d"
     },
     "packrat/desc/argusDS.database": {
-      "checksum": "ce57477a77f1c07b527a67075d24b8dd"
+      "checksum": "cfe9975257dc6c59a90fd7e39752b953"
     },
     "packrat/desc/argusDS.DB.manager.utilities": {
-      "checksum": "4b370c73189e62581776c83a1d9e1061"
+      "checksum": "c8ea95fff05a60864987ce8b08cd916a"
     },
     "packrat/desc/argusDS.distributions": {
-      "checksum": "9fd44e0cd39ca13d2ed40dcafd5e368b"
+      "checksum": "8c0e3e6c55b81f73308391619297ed95"
     },
     "packrat/desc/argusDS.ds.dashboard": {
-      "checksum": "4211163ed87d08b369815516a95bb9e2"
+      "checksum": "d747c40ba1b2d42fd32039c73c4e1c50"
     },
     "packrat/desc/argusDS.GlobalSettings": {
-      "checksum": "9f9dcb2764a4a9df2f86186903a32e4d"
+      "checksum": "b7cb2f9601917f17b701a2ba9cd7f7d2"
     },
     "packrat/desc/argusDS.model.testing": {
-      "checksum": "5feb5d36bdd0c667dc26de120244e424"
+      "checksum": "4b70665d7736ad9bddb9338b2097c8a4"
     },
     "packrat/desc/argusDS.modeldb": {
-      "checksum": "98d8119cc34e40f86414865b5d01e773"
+      "checksum": "a5dc4adc53b3786a80d052ffb782d4d8"
     },
     "packrat/desc/argusDS.PossibilityCurves.utils": {
-      "checksum": "b603e902479794058296cfb051bfb2fc"
+      "checksum": "93a96f6a54c2acb5dc4fd9141ae22a71"
     },
     "packrat/desc/argusDS.smoothers": {
-      "checksum": "262eaa09f266356676ab3051e8307ef4"
+      "checksum": "e0d3353ef8908b0004f664fa0ca731fa"
     },
     "packrat/desc/argusDS.utilities": {
-      "checksum": "dd2e85ccee24eedae698908ac5e13c9e"
+      "checksum": "f3a18f4fd8111cdde49fb4c36e9a8851"
     },
     "packrat/desc/askpass": {
       "checksum": "9874216fdd9b387882cdac3844e42831"
@@ -7529,6 +7582,9 @@
     },
     "packrat/desc/cellranger": {
       "checksum": "5621eec4d4fd5a2b4f209c0397b68e07"
+    },
+    "packrat/desc/checkmate": {
+      "checksum": "b40498ce798b2a242ab369eab3dd9ef8"
     },
     "packrat/desc/chron": {
       "checksum": "3d70b2e0a2a129935b47a7f5eca2ac7a"
@@ -7755,6 +7811,9 @@
     "packrat/desc/hms": {
       "checksum": "5012126696b93ce731ba1cab1705a7a4"
     },
+    "packrat/desc/htmlTable": {
+      "checksum": "4f9af46167aaf6b5e7fc78be8dad64c0"
+    },
     "packrat/desc/htmltools": {
       "checksum": "574f3efca305c24a23d1c2e6270911ee"
     },
@@ -7948,7 +8007,7 @@
       "checksum": "59094c083fddc18398c20b53f0599543"
     },
     "packrat/desc/PossibilityCurves": {
-      "checksum": "2fd6c35382097da3a870c4a1440ea26a"
+      "checksum": "b64e129976c912d8a22e181df0150b6a"
     },
     "packrat/desc/praise": {
       "checksum": "1c75918839a1e3afee4ef9eafca999bd"
@@ -8269,7 +8328,7 @@
       "checksum": "f1dd9fef8808026023142df327c2f296"
     },
     "packrat/packrat.lock": {
-      "checksum": "93bf591e9de4b5b3ec86279ec5751a96"
+      "checksum": "d357c96a02b02d38517cda785574d5d1"
     }
   },
   "users": null

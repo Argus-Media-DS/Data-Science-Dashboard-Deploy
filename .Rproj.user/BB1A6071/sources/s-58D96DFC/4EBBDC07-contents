@@ -2,6 +2,26 @@ install.packages('argusDS.ds.dashboard')
 rsconnect::writeManifest()
 #install.packages("argusDS.ds.dashboard", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
 # renv::snapshot()
+
+
+renv::purge("argus.DS.Credentials")
+renv::purge("argus.model.performance")
+renv::purge("argusDS.data.engineering")
+renv::purge("argusDS.data.preparation")
+renv::purge("argusDS.data.visualisation")
+renv::purge("argusDS.database")
+renv::purge("argusDS.DB.manager.utilities")
+renv::purge("argusDS.distributions")
+renv::purge("argusDS.GlobalSettings")
+renv::purge("argusDS.model.testing")
+renv::purge("argusDS.modeldb")
+renv::purge("argusDS.PossibilityCurves.utils")
+renv::purge("argusDS.smoothers")
+renv::purge("argusDS.utilities")
+renv::purge("PossibilityCurves")
+
+
+
 # renv::purge("argusDS.GlobalSettings")
 # renv::purge("argusDS.database ")
 # install.packages("argusDS.GlobalSettings", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )

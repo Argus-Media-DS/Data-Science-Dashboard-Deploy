@@ -127,10 +127,9 @@
       "Version": "0.1.17.0",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Data-Visualisation/argusDS.data.visualisation,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Smoothers/argusDS.smoothers,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering",
       "RemoteSha": "ee4f5e028ba1541da3d4b8f82a620e5f4ad2862d",
-      "Hash": "ed7dcb23fa250066b424b1e1b3276521"
+      "Hash": "a8e63f04fca4788aee039f94eff4f46a"
     },
     "Quandl": {
       "Package": "Quandl",
@@ -267,32 +266,30 @@
     },
     "argus.DS.Credentials": {
       "Package": "argus.DS.Credentials",
-      "Version": "0.1.6.0",
+      "Version": "0.1.6.1",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
-      "RemoteSha": "62f1bf1b06071db5e8ec0c1b73dfda1a4e285c66",
-      "Hash": "8adc35607d2efca9b7cb1adecb92f368"
+      "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities",
+      "RemoteSha": "0266747ac74dbee874bef85f11ffce11dda155f4",
+      "Hash": "81d578c05a5441b1be6285336744b4fe"
     },
     "argus.model.performance": {
       "Package": "argus.model.performance",
-      "Version": "0.1.13.2",
+      "Version": "0.1.13.4",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-      "RemoteSha": "00f631653278cee79e14b041ddfeb05f7ef50192",
-      "Hash": "ffa3c1512564f84e5d4ee847a4752115"
+      "RemoteSha": "849c8e4c6c8cdf5ab7136adc9237fe9cfdfaa9c0",
+      "Hash": "3bab764c84c387913ae0571a1ff6fff8"
     },
     "argusDS.DB.manager.utilities": {
       "Package": "argusDS.DB.manager.utilities",
-      "Version": "0.1.10.0",
+      "Version": "0.1.10.2",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Database/argusDS.database",
-      "RemoteSha": "271740aa10875f48c3b0326f67223206fd3fb343",
-      "Hash": "71211e5fa37e841e9a60e2b2aff31023"
+      "RemoteSha": "cb7f9b5fcf1345a9ba742f3b0e0844c52feaedc0",
+      "Hash": "fde4c03db4314983781a9af59135b120"
     },
     "argusDS.GlobalSettings": {
       "Package": "argusDS.GlobalSettings",
@@ -313,21 +310,21 @@
     },
     "argusDS.data.engineering": {
       "Package": "argusDS.data.engineering",
-      "Version": "0.1.1.0",
+      "Version": "0.1.1.2",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteSha": "0fdc25c17fab6485644a9daaa74f66c2a0395526",
-      "Hash": "feee346c3b7375d49feb19a392ade49d"
+      "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing",
+      "RemoteSha": "adccab6e7cabe75b29d0b00333a0d4f897bcae5e",
+      "Hash": "70285dda3b79127cde7e67f595b3e42e"
     },
     "argusDS.data.preparation": {
       "Package": "argusDS.data.preparation",
-      "Version": "0.2.3.4",
+      "Version": "0.2.3.5",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-      "RemoteSha": "d4a3ace97f25b85b8c85d91c30364c4837164f85",
-      "Hash": "bb3ff7dc05781e76404c07e189517e18"
+      "RemoteSha": "03743425f06ef0d5b4cbbbc999ea13bf93bd178a",
+      "Hash": "c28407a452a2c9ea0837cfadce221993"
     },
     "argusDS.data.visualisation": {
       "Package": "argusDS.data.visualisation",
@@ -339,20 +336,28 @@
     },
     "argusDS.database": {
       "Package": "argusDS.database",
-      "Version": "0.1.6",
+      "Version": "0.1.7",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteSha": "6fc0bd0b19b12e5bc7b17f08c7939b689144f25d",
-      "Hash": "300d7269c8391efd4e69a172327203fd"
+      "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials",
+      "RemoteSha": "137063944197d832bc3b2e5473c7ae8f9f7eb7ac",
+      "Hash": "12b21bebe8732cd3b64bf439f1d68a25"
     },
     "argusDS.distributions": {
       "Package": "argusDS.distributions",
       "Version": "0.1.0",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
       "RemoteSha": "77ab085cfac128ac069319eb1fdfc4aea2059335",
-      "Hash": "8dd92ae2df071f3818a05ba0255b6d38"
+      "Hash": "5703bd2a12ec6347f7bf7c072ae3f698"
+    },
+    "argusDS.ds.dashboard": {
+      "Package": "argusDS.ds.dashboard",
+      "Version": "0.0.1.063",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "RemoteSha": "fb31dbf58aceb00856d45dae09bc8c27430c0736",
+      "Hash": "55154bb44371a4d2b634726552e2729c"
     },
     "argusDS.model.testing": {
       "Package": "argusDS.model.testing",
@@ -365,30 +370,28 @@
     },
     "argusDS.modeldb": {
       "Package": "argusDS.modeldb",
-      "Version": "0.1.13.0",
+      "Version": "0.1.13.2",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
       "Remotes": "Argus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/argus.data.preparation",
-      "RemoteSha": "6fe00456876ee82bc8c2594ada0a1b91e639aabf",
-      "Hash": "089469e4727204c6102d958a3347624a"
+      "RemoteSha": "64e6d6f5218ec259ac70ccad701a847412c6ee29",
+      "Hash": "b37102d49a29e2e5847da6ca55d19769"
     },
     "argusDS.smoothers": {
       "Package": "argusDS.smoothers",
       "Version": "0.1.1",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteType": "repository",
       "RemoteSha": "05ec14f9b5cdd5645567e44a81c4126c851742b1",
-      "Hash": "c92567aa7e277dc82ebbb80d0170664a"
+      "Hash": "c64152ec27018165d2159847c8912d7e"
     },
     "argusDS.utilities": {
       "Package": "argusDS.utilities",
-      "Version": "0.2.5.0",
+      "Version": "0.2.5.2",
       "Source": "Repository",
       "Repository": "RSPM",
-      "RemoteSha": "766c945b32af591ccf724c68757cd4e8f7b9c222",
-      "Hash": "dbe44415175354c48fa079412307c580"
+      "RemoteSha": "d7a10aaf71d77701f77facc9ccf3890b5e99c817",
+      "Hash": "f3fc3c066d93738aad8110173c382404"
     },
     "askpass": {
       "Package": "askpass",
@@ -529,6 +532,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "f61dbaec772ccd2e17705c1e872e9e7c"
+    },
+    "checkmate": {
+      "Package": "checkmate",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "a667800d5f0350371bedeb8b8b950289"
     },
     "chron": {
       "Package": "chron",
@@ -1005,6 +1015,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "726671f634529d470545f9fd1a9d1869"
+    },
+    "htmlTable": {
+      "Package": "htmlTable",
+      "Version": "2.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "4f2a742fc75dedafe660e3b47a37680e"
     },
     "htmltools": {
       "Package": "htmltools",

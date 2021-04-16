@@ -1,0 +1,50 @@
+library(argusDS.ds.dashboard)
+argusDS.ds.dashboard::run_app(load_date_from = lubridate::ymd("2005-01-01")) #add parameters here
+
+# renv::snapshot()
+#install.packages("argusDS.ds.dashboard", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+
+
+# rsconnect::writeManifest()
+
+
+renv::purge("argus.DS.Credentials")
+renv::purge("argus.model.performance")
+renv::purge("argusDS.data.engineering")
+renv::purge("argusDS.data.preparation")
+renv::purge("argusDS.data.visualisation")
+renv::purge("argusDS.database")
+renv::purge("argusDS.DB.manager.utilities")
+renv::purge("argusDS.distributions")
+renv::purge("argusDS.GlobalSettings")
+renv::purge("argusDS.model.testing")
+renv::purge("argusDS.modeldb")
+renv::purge("argusDS.PossibilityCurves.utils")
+renv::purge("argusDS.smoothers")
+renv::purge("argusDS.utilities")
+renv::purge("PossibilityCurves")
+
+ install.packages("argus.DS.Credentials", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+ install.packages("argus.model.performance", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+ install.packages("argusDS.data.engineering", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+ install.packages("argusDS.data.preparation", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.data.visualisation", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.database", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.DB.manager.utilities", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.distributions", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.GlobalSettings", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.model.testing", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.modeldb", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.PossibilityCurves.utils", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.smoothers", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("argusDS.utilities", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+install.packages("PossibilityCurves", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+library(argusDS.ds.dashboard, repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+argusDS.ds.dashboard::run_app(load_date_from = lubridate::ymd("2005-01-01", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" ), repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" ) #add parameters here
+
+# renv::snapshot(, repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+#install.packages("argusDS.ds.dashboard", repo =  getOption("repos", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" ), dependencies = F,INSTALL_opts = "--no-multiarch" , repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+
+
+# rsconnect::writeManifest(, repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
+
