@@ -12,7 +12,7 @@
   "packages": {
     "ADGofTest": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ADGofTest",
         "Type": "Package",
@@ -32,7 +32,7 @@
     },
     "BH": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "BH",
         "Type": "Package",
@@ -54,7 +54,7 @@
     },
     "DBI": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "DBI",
         "Title": "R Database Interface",
@@ -82,7 +82,7 @@
     },
     "DT": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "DT",
         "Type": "Package",
@@ -109,7 +109,7 @@
     },
     "DistributionUtils": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "DistributionUtils",
         "Version": "0.6-0",
@@ -131,7 +131,7 @@
     },
     "FNN": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "FNN",
         "Version": "1.1.3",
@@ -153,7 +153,7 @@
     },
     "Formula": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "Formula",
         "Version": "1.2-3",
@@ -174,7 +174,7 @@
     },
     "GGally": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "GGally",
         "Version": "1.5.0",
@@ -205,7 +205,7 @@
     },
     "GeneralizedHyperbolic": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "GeneralizedHyperbolic",
         "Version": "0.8-4",
@@ -229,7 +229,7 @@
     },
     "KernSmooth": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "KernSmooth",
         "Priority": "recommended",
@@ -253,7 +253,7 @@
     },
     "MASS": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "MASS",
         "Priority": "recommended",
@@ -282,7 +282,7 @@
     },
     "Matrix": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "Matrix",
         "Version": "1.2-18",
@@ -314,7 +314,7 @@
     },
     "MatrixModels": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "MatrixModels",
         "Version": "0.4-1",
@@ -339,7 +339,7 @@
     },
     "Metrics": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "Metrics",
         "Version": "0.1.4",
@@ -362,7 +362,7 @@
     },
     "PerformanceAnalytics": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "PerformanceAnalytics",
         "Type": "Package",
@@ -392,7 +392,7 @@
     },
     "PossibilityCurves": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "PossibilityCurves",
         "Type": "Package",
@@ -420,7 +420,7 @@
     },
     "Quandl": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "Quandl",
         "Title": "API Wrapper for Quandl.com",
@@ -446,7 +446,7 @@
     },
     "R.methodsS3": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "R.methodsS3",
         "Version": "1.8.0",
@@ -471,7 +471,7 @@
     },
     "R.oo": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "R.oo",
         "Version": "1.23.0",
@@ -496,7 +496,7 @@
     },
     "R.utils": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "R.utils",
         "Version": "2.9.2",
@@ -521,7 +521,7 @@
     },
     "R6": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "R6",
         "Title": "Encapsulated Classes with Reference Semantics",
@@ -546,7 +546,7 @@
     },
     "RColorBrewer": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "RColorBrewer",
         "Version": "1.1-2",
@@ -567,7 +567,7 @@
     },
     "RCurl": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "RCurl",
         "Version": "1.98-1.1",
@@ -591,7 +591,7 @@
     },
     "RMySQL": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "RMySQL",
         "Version": "0.10.20",
@@ -618,7 +618,7 @@
     },
     "RODBC": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "RODBC",
         "Version": "1.3-16",
@@ -644,7 +644,7 @@
     },
     "Rcpp": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "Rcpp",
         "Title": "Seamless R and C++ Integration",
@@ -670,7 +670,7 @@
     },
     "RcppArmadillo": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "RcppArmadillo",
         "Type": "Package",
@@ -697,7 +697,7 @@
     },
     "RcppEigen": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "RcppEigen",
         "Type": "Package",
@@ -725,7 +725,7 @@
     },
     "Rsolnp": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "Rsolnp",
         "Type": "Package",
@@ -751,7 +751,7 @@
     },
     "SkewHyperbolic": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "SkewHyperbolic",
         "Type": "Package",
@@ -776,7 +776,7 @@
     },
     "SparseM": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "SparseM",
         "Version": "1.78",
@@ -797,7 +797,7 @@
     },
     "TSP": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "TSP",
         "Type": "Package",
@@ -825,7 +825,7 @@
     },
     "TTR": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "TTR",
         "Type": "Package",
@@ -850,7 +850,7 @@
     },
     "Xmisc": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "Xmisc",
         "Version": "0.2.1",
@@ -877,7 +877,7 @@
     },
     "abind": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "abind",
         "Version": "1.4-5",
@@ -898,7 +898,7 @@
     },
     "argus.DS.Credentials": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argus.DS.Credentials",
         "Type": "Package",
@@ -907,21 +907,23 @@
         "Maintainer": "Argus Media - Data Science <DataScience@argusmedia.com>",
         "Description": "A package to get user credentials.",
         "License": "GPL-3",
+        "Imports": "argusDS.utilities, dplyr",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities",
         "Repository": "RSPM",
-        "RemoteSha": "62f1bf1b06071db5e8ec0c1b73dfda1a4e285c66",
-        "Version": "0.1.6.0",
-        "Date": "2020-10-02",
+        "RemoteSha": "0266747ac74dbee874bef85f11ffce11dda155f4",
+        "Version": "0.1.6.1",
+        "Date": "2021-04-16",
         "NeedsCompilation": "no",
-        "Packaged": "2020-10-02 15:19:22 UTC; root",
-        "Built": "R 3.6.3; ; 2020-12-18 14:42:46 UTC; windows"
+        "Packaged": "2021-04-16 09:09:40 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:10:17 UTC; windows"
       }
     },
     "argus.model.performance": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argus.model.performance",
         "Type": "Package",
@@ -933,22 +935,21 @@
         "Encoding": "UTF-8",
         "LazyData": "true",
         "Depends": "R (>= 3.5.0), data.table, lubridate",
-        "Imports": "argusDS.data.engineering, argusDS.utilities,\nargusDS.data.preparation, argusDS.GlobalSettings, data.table,\nlubridate, aws.s3, stringr, furrr",
+        "Imports": "argusDS.data.engineering, argusDS.utilities,\nargusDS.data.preparation, argusDS.GlobalSettings, data.table,\nlubridate, aws.s3, glue, DBI, htmlTable, stringr, furrr,\nmagrittr, usethis",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "Version": "0.1.13.0",
-        "Date": "2021-02-16",
+        "RemoteSha": "849c8e4c6c8cdf5ab7136adc9237fe9cfdfaa9c0",
+        "Version": "0.1.13.4",
+        "Date": "2021-04-16",
         "NeedsCompilation": "no",
-        "Packaged": "2021-02-16 20:28:20 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-25 19:21:23 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/argus.data.preparation,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-        "RemoteSha": "f40c853515b8ed4b6b9f4e83be07780ef0307086"
+        "Packaged": "2021-04-16 09:41:23 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:12:17 UTC; windows"
       }
     },
     "argusDS.DB.manager.utilities": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.DB.manager.utilities",
         "Type": "Package",
@@ -957,26 +958,25 @@
         "Maintainer": "Argus Media - Data Science <ai@argusmedia.com>",
         "Description": "R functions to get data from internal and external data sources.",
         "License": "GPL-3",
-        "Depends": "R (>= 3.5.0), DBI, Quandl, RCurl, RMySQL, bit64, data.table,\ndevtools, plyr, dplyr, jsonlite, lubridate, rjson, tictoc, zoo",
-        "Imports": "DBI, Quandl, RCurl, RMySQL, bit64, plyr, data.table, devtools,\ndplyr, jsonlite, lubridate, rjson, tictoc, zoo,\nargusDS.database",
+        "Depends": "R (>= 3.5.0), DBI, Quandl, RCurl, RMySQL, bit64, devtools,\ndata.table, plyr, dplyr, jsonlite, lubridate, rjson, tictoc,\nzoo",
+        "Imports": "DBI, Quandl, RCurl, RMySQL, bit64, plyr, data.table, devtools,\ndplyr, jsonlite, lubridate, rjson, tictoc, zoo,\nargusDS.database, magrittr, usethis, glue",
+        "Remotes": "Argus-Media-DS/DS-Database/argusDS.database",
         "Suggests": "mailR",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "Version": "0.1.10.0",
-        "Date": "2021-02-02",
+        "RemoteSha": "cb7f9b5fcf1345a9ba742f3b0e0844c52feaedc0",
+        "Version": "0.1.10.2",
+        "Date": "2021-04-12",
         "NeedsCompilation": "no",
-        "Packaged": "2021-02-02 17:49:42 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-25 19:21:31 UTC; windows",
-        "RemoteType": "repository",
-        "Remotes": "Argus-Media-DS/DS-Database/argusDS.database",
-        "RemoteSha": "271740aa10875f48c3b0326f67223206fd3fb343"
+        "Packaged": "2021-04-12 10:30:22 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:12:47 UTC; windows"
       }
     },
     "argusDS.GlobalSettings": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.GlobalSettings",
         "Type": "Package",
@@ -989,18 +989,17 @@
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
+        "RemoteSha": "2cd91e85bf4e7bd35985e4ad819bc234a1e7e3a9",
         "Version": "0.1.5",
         "Date": "2021-02-22",
         "NeedsCompilation": "no",
         "Packaged": "2021-02-22 10:41:24 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-25 19:20:06 UTC; windows",
-        "RemoteType": "repository",
-        "RemoteSha": "2cd91e85bf4e7bd35985e4ad819bc234a1e7e3a9"
+        "Built": "R 3.6.3; ; 2021-03-25 19:47:50 UTC; windows"
       }
     },
     "argusDS.PossibilityCurves.utils": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.PossibilityCurves.utils",
         "Type": "Package",
@@ -1014,20 +1013,19 @@
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
-        "Repository": "RSPM",
-        "Version": "0.1.10.0",
-        "Date": "2021-01-27",
-        "NeedsCompilation": "no",
-        "Packaged": "2021-01-27 19:11:54 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-25 19:21:47 UTC; windows",
-        "RemoteType": "repository",
         "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-ModelDB/argusDS.modeldb,\nArgus-Media-DS/DS-ModelPerformance",
-        "RemoteSha": "41d7b6661452577ad3e9f27746b05eccc5afbaf5"
+        "Repository": "RSPM",
+        "RemoteSha": "052fda8f93f424ff34af7095dd846ddb08eff4b9",
+        "Version": "0.1.10.2",
+        "Date": "2021-03-28",
+        "NeedsCompilation": "no",
+        "Packaged": "2021-03-28 19:03:09 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:13:22 UTC; windows"
       }
     },
     "argusDS.data.engineering": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.data.engineering",
         "Type": "Package",
@@ -1036,23 +1034,24 @@
         "Maintainer": "Argus Media - Data Science <ai@argusmedia.com>",
         "Description": "An R interface to the Data Engineering functions created by Argus.",
         "License": "GPL-3",
-        "Depends": "R (>= 3.5.0), pacman, RMySQL, RODBC, jsonlite, data.table,\nbit64, DBI, DT, curl, parallel, TTR, tictoc, quantmod,\nfTrading, zoo, PerformanceAnalytics",
-        "Imports": "pacman, RMySQL, RODBC, jsonlite, data.table, bit64, DBI, DT,\ncurl, parallel, TTR, tictoc, quantmod, fTrading, zoo,\nPerformanceAnalytics",
+        "Imports": "dplyr, pacman, RMySQL, RODBC, jsonlite, data.table, bit64,\nDBI, DT, curl, parallel, TTR, tictoc, quantmod, fTrading, zoo,\nPerformanceAnalytics, argusDS.utilities, gamlss, gamlss.dist,\nargusDS.model.testing, magrittr, usethis, lubridate",
         "Encoding": "UTF-8",
         "LazyData": "true",
-        "RoxygenNote": "7.1.0",
+        "RoxygenNote": "7.1.1",
+        "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing",
+        "Suggests": "testthat",
         "Repository": "RSPM",
-        "RemoteSha": "0fdc25c17fab6485644a9daaa74f66c2a0395526",
-        "Version": "0.1.1.0",
-        "Date": "2020-09-04",
+        "RemoteSha": "adccab6e7cabe75b29d0b00333a0d4f897bcae5e",
+        "Version": "0.1.1.2",
+        "Date": "2021-04-12",
         "NeedsCompilation": "no",
-        "Packaged": "2020-09-04 13:58:49 UTC; root",
-        "Built": "R 3.6.3; ; 2020-09-07 08:15:42 UTC; windows"
+        "Packaged": "2021-04-12 11:12:57 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:08:59 UTC; windows"
       }
     },
     "argusDS.data.preparation": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.data.preparation",
         "Type": "Package",
@@ -1067,20 +1066,19 @@
         "RoxygenNote": "7.1.1",
         "Suggests": "testthat",
         "Imports": "argusDS.database, argusDS.model.testing,\nargusDS.data.engineering, aws.s3, argusDS.GlobalSettings",
-        "Repository": "RSPM",
-        "Version": "0.2.3.0",
-        "Date": "2021-01-26",
-        "NeedsCompilation": "no",
-        "Packaged": "2021-01-26 14:59:04 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-25 19:20:19 UTC; windows",
-        "RemoteType": "repository",
         "Remotes": "Argus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings",
-        "RemoteSha": "7e10dcffcd8990864c534c2a09da99909de46b5f"
+        "Repository": "RSPM",
+        "RemoteSha": "03743425f06ef0d5b4cbbbc999ea13bf93bd178a",
+        "Version": "0.2.3.5",
+        "Date": "2021-04-06",
+        "NeedsCompilation": "no",
+        "Packaged": "2021-04-06 08:57:51 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:14:04 UTC; windows"
       }
     },
     "argusDS.data.visualisation": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.data.visualisation",
         "Type": "Package",
@@ -1105,7 +1103,7 @@
     },
     "argusDS.database": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.database",
         "Type": "Package",
@@ -1114,23 +1112,23 @@
         "Maintainer": "Argus Media - Data Science <ai@argusmedia.com>",
         "Description": "An R Interface to Argus Media Databases. The user can access data from ARGUS MEDIA databases (Prices, Fundamentals Data). It also provides the functionality to retrieve data from GTT.",
         "License": "GPL-3",
-        "Depends": "R (>= 3.5.0), pacman, RMySQL, RODBC, jsonlite, data.table,\nbit64, DBI, DT, curl, parallel, odbc",
-        "Imports": "pacman, RMySQL, RODBC, jsonlite, data.table, bit64, DBI, DT,\ncurl, parallel, odbc",
+        "Imports": "data.table, magrittr, usethis, lubridate, purrr, parallel,\njsonlite, DBI, RODBC, odbc, RMySQL, argus.DS.Credentials",
+        "Remotes": "Argus-Media-DS/DS-Credentials/argus.DS.Credentials",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "RemoteSha": "6fc0bd0b19b12e5bc7b17f08c7939b689144f25d",
-        "Version": "0.1.6",
-        "Date": "2021-01-26",
+        "RemoteSha": "137063944197d832bc3b2e5473c7ae8f9f7eb7ac",
+        "Version": "0.1.7",
+        "Date": "2021-04-09",
         "NeedsCompilation": "no",
-        "Packaged": "2021-01-26 14:48:19 UTC; root",
-        "Built": "R 3.6.3; ; 2021-02-03 09:25:47 UTC; windows"
+        "Packaged": "2021-04-09 15:37:26 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:14:38 UTC; windows"
       }
     },
     "argusDS.distributions": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.distributions",
         "Type": "Package",
@@ -1156,7 +1154,7 @@
     },
     "argusDS.ds.dashboard": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.ds.dashboard",
         "Title": "Argus Data Science Dashboard",
@@ -1166,25 +1164,25 @@
         "License": "GPL-3",
         "Encoding": "UTF-8",
         "LazyData": "true",
-        "Imports": "shiny, golem, processx, attempt, DT, glue, htmltools, pkgload,\nshinythemes, shinyjs, shinyBS, shinydashboard,\nshinydashboardPlus, shinyWidgets, dplyr, ggplot2, plotly,\nRCurl, logging, lubridate, aws.s3, kableExtra, zoo, data.table,\ncorrr, magrittr, stringr, GGally, tictoc, scales, curl,\nvisNetwork, callr, purrr, config, tidyr, DBI, bizdays, forcats,\njsonlite, plyr, timeDate, memoise, shinycssloaders, excelR,\ndbplyr, parallel, argusDS.database (>= 0.1.2),\nargus.DS.Credentials (>= 0.1.4), argusDS.utilities (>=\n0.2.5.0), argusDS.PossibilityCurves.utils (>= 0.1.5.1),\nargusDS.data.visualisation (>= 0.1.18),\nargusDS.data.preparation (>= 0.2.1.0), argusDS.model.testing\n(>= 0.1.4.0), argusDS.data.engineering (>= 0.1.1.0),\nargusDS.smoothers (>= 0.1.1), argusDS.modeldb (>= 0.1.8.0),\nargusDS.GlobalSettings (>= 0.1.2), PossibilityCurves (>=\n0.1.11.0), argusDS.distributions (>= 0.1.0),\nargusDS.DB.manager.utilities (>= 0.1.6.0), usethis",
+        "Imports": "shiny, golem, processx, attempt, DT, glue, htmltools, pkgload,\nshinythemes, shinyjs, shinyBS, shinydashboard,\nshinydashboardPlus, shinyWidgets, dplyr, ggplot2, plotly,\nRCurl, logging, lubridate, aws.s3, kableExtra, zoo, data.table,\ncorrr, magrittr, stringr, GGally, tictoc, scales, curl,\nvisNetwork, callr, purrr, config, tidyr, DBI, bizdays, forcats,\njsonlite, plyr, timeDate, memoise, shinycssloaders, excelR,\ndbplyr, parallel, argusDS.database (>= 0.1.2),\nargus.DS.Credentials (>= 0.1.4), argusDS.utilities (>=\n0.2.5.0), argusDS.PossibilityCurves.utils (>= 0.1.5.1),\nargusDS.data.visualisation (>= 0.1.18),\nargusDS.data.preparation (>= 0.2.1.0), argusDS.model.testing\n(>= 0.1.4.0), argusDS.data.engineering (>= 0.1.1.0),\nargusDS.smoothers (>= 0.1.1), argusDS.modeldb (>= 0.1.8.0),\nargusDS.GlobalSettings (>= 0.1.2), PossibilityCurves (>=\n0.1.11.0), argusDS.distributions (>= 0.1.0),\nargusDS.DB.manager.utilities (>= 0.1.6.0), usethis, reactable",
         "RoxygenNote": "7.1.1",
         "Suggests": "testthat (>= 2.1.0), knitr, rmarkdown, spelling",
         "VignetteBuilder": "knitr",
         "Language": "en-US",
         "Repository": "RSPM",
-        "RemoteSha": "441d6ae5faf86d4782b866a70f821ec95c8d54a3",
-        "Version": "0.0.1.027",
-        "Date": "2021-03-01",
+        "RemoteSha": "9bf7421964eeea5bd5cbf22b6aeb8f2638e10a7c",
+        "Version": "0.0.1.062",
+        "Date": "2021-04-16",
         "NeedsCompilation": "no",
-        "Packaged": "2021-03-01 15:17:59 UTC; root",
+        "Packaged": "2021-04-16 10:07:22 UTC; root",
         "Author": "Argus ML/AI Quants Argus ML/AI Quants [cre, aut]",
         "Maintainer": "Argus ML/AI Quants Argus ML/AI Quants <DataScience@argusmedia.com>",
-        "Built": "R 3.6.3; ; 2021-03-01 15:19:49 UTC; windows"
+        "Built": "R 3.6.3; ; 2021-04-16 10:15:33 UTC; windows"
       }
     },
     "argusDS.model.testing": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.model.testing",
         "Type": "Package",
@@ -1198,19 +1196,19 @@
         "Remotes": "Argus-Media-DS/DS-Utilities/argusDS.utilities",
         "Encoding": "UTF-8",
         "LazyData": "true",
-        "RoxygenNote": "7.1.0",
+        "RoxygenNote": "7.1.1",
         "Repository": "RSPM",
-        "RemoteSha": "09907c9d98203a9b15092ae1b262375e518840be",
-        "Version": "0.1.4.0",
-        "Date": "2020-08-21",
+        "RemoteSha": "f2487a8b2e8e970371166e54d500bb62c0c0d949",
+        "Version": "0.1.5.0",
+        "Date": "2021-03-19",
         "NeedsCompilation": "no",
-        "Packaged": "2020-08-21 09:04:12 UTC; root",
-        "Built": "R 3.6.3; ; 2020-09-03 15:37:51 UTC; windows"
+        "Packaged": "2021-03-19 15:05:01 UTC; root",
+        "Built": "R 3.6.3; ; 2021-03-25 19:10:39 UTC; windows"
       }
     },
     "argusDS.modeldb": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.modeldb",
         "Type": "Package",
@@ -1219,23 +1217,23 @@
         "Maintainer": "Ferhat Culfaz <ferhat.culfaz@argusmedia.com>",
         "Description": "This package can be used to populate the modelDB as well as\n    retrieve from modelDB.",
         "License": "GPL-3",
-        "Imports": "data.table, devtools, dplyr, lubridate, RMySQL, stringr,\ntidyr, wkb, Xmisc (>= 0.2.1), argusDS.data.preparation (>=\n0.1.5.4), argusDS.data.engineering (>= 0.1.0), argusDS.database\n(>= 0.1.2), argus.DS.Credentials (>= 0.1.2), argusDS.utilities\n(>= 0.2.3), argusDS.GlobalSettings (>= 0.1.2),\nargusDS.model.testing (>= 0.1.1), aws.s3, mailR",
+        "Imports": "data.table, devtools, dplyr, glue, DBI, lubridate, RMySQL,\nstringr, tidyr, wkb, Xmisc (>= 0.2.1), argusDS.data.preparation\n(>= 0.1.5.4), argusDS.data.engineering (>= 0.1.0),\nargusDS.database (>= 0.1.2), argus.DS.Credentials (>= 0.1.2),\nargusDS.utilities (>= 0.2.3), argusDS.GlobalSettings (>=\n0.1.2), argusDS.model.testing (>= 0.1.1), aws.s3, mailR,\nmagrittr, usethis",
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.1",
         "Remotes": "Argus-Media-DS/DS-Data-Engineering/argusDS.data.engineering,\nArgus-Media-DS/DS-Database/argusDS.database,\nArgus-Media-DS/DS-Credentials/argus.DS.Credentials,\nArgus-Media-DS/DS-Utilities/argusDS.utilities,\nArgus-Media-DS/DS-GlobalSettings/argusDS.GlobalSettings,\nArgus-Media-DS/DS-Model-Testing/argusDS.model.testing,\nArgus-Media-DS/argus.data.preparation",
         "Repository": "RSPM",
-        "RemoteSha": "3227275ea37d7891d0914c8a9ede4a53a2370137",
-        "Version": "0.1.12.0",
-        "Date": "2020-10-02",
+        "RemoteSha": "64e6d6f5218ec259ac70ccad701a847412c6ee29",
+        "Version": "0.1.13.2",
+        "Date": "2021-04-16",
         "NeedsCompilation": "no",
-        "Packaged": "2020-10-02 15:21:26 UTC; root",
-        "Built": "R 3.6.3; ; 2020-10-07 22:14:55 UTC; windows"
+        "Packaged": "2021-04-16 09:14:32 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:14:59 UTC; windows"
       }
     },
     "argusDS.smoothers": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.smoothers",
         "Type": "Package",
@@ -1260,7 +1258,7 @@
     },
     "argusDS.utilities": {
       "Source": "argus",
-      "Repository": "https://rspm.argusmedia.com/live/latest",
+      "Repository": "https://rspm.argusmedia.com/live/latest/",
       "description": {
         "Package": "argusDS.utilities",
         "Type": "Package",
@@ -1274,19 +1272,19 @@
         "Encoding": "UTF-8",
         "LazyData": "true",
         "RoxygenNote": "7.1.0",
-        "Imports": "magrittr, stringr, usethis",
+        "Imports": "magrittr, stringr, usethis, lubridate",
         "Repository": "RSPM",
-        "RemoteSha": "766c945b32af591ccf724c68757cd4e8f7b9c222",
-        "Version": "0.2.5.0",
-        "Date": "2020-08-07",
+        "RemoteSha": "d7a10aaf71d77701f77facc9ccf3890b5e99c817",
+        "Version": "0.2.5.2",
+        "Date": "2021-04-09",
         "NeedsCompilation": "no",
-        "Packaged": "2020-08-07 16:08:13 UTC; root",
-        "Built": "R 3.6.3; ; 2020-08-12 16:17:56 UTC; windows"
+        "Packaged": "2021-04-09 15:42:56 UTC; root",
+        "Built": "R 3.6.3; ; 2021-04-16 10:09:41 UTC; windows"
       }
     },
     "askpass": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "askpass",
         "Type": "Package",
@@ -1314,7 +1312,7 @@
     },
     "assertthat": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "assertthat",
         "Title": "Easy Pre and Post Assertions",
@@ -1337,7 +1335,7 @@
     },
     "attempt": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "attempt",
         "Title": "Tools for Defensive Programming",
@@ -1363,7 +1361,7 @@
     },
     "aws.s3": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "aws.s3",
         "Type": "Package",
@@ -1389,7 +1387,7 @@
     },
     "aws.signature": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "aws.signature",
         "Type": "Package",
@@ -1415,7 +1413,7 @@
     },
     "backports": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "backports",
         "Type": "Package",
@@ -1442,7 +1440,7 @@
     },
     "base64enc": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "base64enc",
         "Version": "0.1-3",
@@ -1463,7 +1461,7 @@
     },
     "bit": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "bit",
         "Title": "A Class for Vectors of 1-Bit Booleans",
@@ -1489,7 +1487,7 @@
     },
     "bit64": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "bit64",
         "Type": "Package",
@@ -1514,7 +1512,7 @@
     },
     "bitops": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "bitops",
         "Version": "1.0-6",
@@ -1533,7 +1531,7 @@
     },
     "bizdays": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "bizdays",
         "Title": "Business Days Calculations and Utilities",
@@ -1559,7 +1557,7 @@
     },
     "blob": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "blob",
         "Title": "A Simple S3 Class for Representing Vectors of Binary Data\n('BLOBS')",
@@ -1585,7 +1583,7 @@
     },
     "boot": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "boot",
         "Priority": "recommended",
@@ -1611,7 +1609,7 @@
     },
     "brew": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "brew",
         "Type": "Package",
@@ -1630,7 +1628,7 @@
     },
     "broom": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Type": "Package",
         "Package": "broom",
@@ -1659,7 +1657,7 @@
     },
     "caTools": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "caTools",
         "Type": "Package",
@@ -1684,7 +1682,7 @@
     },
     "callr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "callr",
         "Title": "Call R from R",
@@ -1711,7 +1709,7 @@
     },
     "car": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "car",
         "Version": "3.0-7",
@@ -1741,7 +1739,7 @@
     },
     "carData": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "carData",
         "Version": "3.0-3",
@@ -1768,7 +1766,7 @@
     },
     "cellranger": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "cellranger",
         "Title": "Translate Spreadsheet Cell Ranges to Rows and Columns",
@@ -1793,9 +1791,40 @@
         "Built": "R 3.6.3; ; 2020-04-02 21:56:50 UTC; windows"
       }
     },
+    "checkmate": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "checkmate",
+        "Type": "Package",
+        "Title": "Fast and Versatile Argument Checks",
+        "Description": "Tests and assertions to perform frequent argument checks. A\n    substantial part of the package was written in C to minimize any worries\n    about execution time overhead.",
+        "Version": "2.0.0",
+        "Authors@R": "c(\n    person(\"Michel\", \"Lang\", NULL, \"michellang@gmail.com\",\n      role = c(\"cre\", \"aut\"), comment = c(ORCID = \"0000-0001-9754-0393\")),\n    person(\"Bernd\", \"Bischl\", NULL, \"bernd_bischl@gmx.net\", role = \"ctb\")\n    )",
+        "URL": "https://github.com/mllg/checkmate",
+        "URLNote": "https://github.com/mllg/checkmate",
+        "BugReports": "https://github.com/mllg/checkmate/issues",
+        "NeedsCompilation": "yes",
+        "ByteCompile": "yes",
+        "Encoding": "UTF-8",
+        "Depends": "R (>= 3.0.0)",
+        "Imports": "backports (>= 1.1.0), utils",
+        "Suggests": "R6, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,\nknitr, magrittr, microbenchmark, rmarkdown, testthat (>=\n0.11.0), tinytest (>= 1.1.0), tibble",
+        "License": "BSD_3_clause + file LICENSE",
+        "VignetteBuilder": "knitr",
+        "RoxygenNote": "7.0.2",
+        "Collate": "'AssertCollection.R' 'allMissing.R' 'anyInfinite.R'\n'anyMissing.R' 'anyNaN.R' 'asInteger.R' 'assert.R' 'helper.R'\n'makeExpectation.R' 'makeTest.R' 'makeAssertion.R'\n'checkAccess.R' 'checkArray.R' 'checkAtomic.R'\n'checkAtomicVector.R' 'checkCharacter.R' 'checkChoice.R'\n'checkClass.R' 'checkComplex.R' 'checkCount.R'\n'checkDataFrame.R' 'checkDataTable.R' 'checkDate.R'\n'checkDirectoryExists.R' 'checkDisjunct.R' 'checkDouble.R'\n'checkEnvironment.R' 'checkFALSE.R' 'checkFactor.R'\n'checkFileExists.R' 'checkFlag.R' 'checkFormula.R'\n'checkFunction.R' 'checkInt.R' 'checkInteger.R'\n'checkIntegerish.R' 'checkList.R' 'checkLogical.R'\n'checkMatrix.R' 'checkMultiClass.R' 'checkNamed.R'\n'checkNames.R' 'checkNull.R' 'checkNumber.R' 'checkNumeric.R'\n'checkOS.R' 'checkPOSIXct.R' 'checkPathForOutput.R' 'checkR6.R'\n'checkRaw.R' 'checkScalar.R' 'checkScalarNA.R'\n'checkSetEqual.R' 'checkString.R' 'checkSubset.R' 'checkTRUE.R'\n'checkTibble.R' 'checkVector.R' 'coalesce.R' 'isIntegerish.R'\n'matchArg.R' 'qassert.R' 'qassertr.R' 'vname.R' 'wfwl.R'\n'zzz.R'",
+        "Packaged": "2020-02-05 12:51:29 UTC; michel",
+        "Author": "Michel Lang [cre, aut] (<https://orcid.org/0000-0001-9754-0393>),\n  Bernd Bischl [ctb]",
+        "Maintainer": "Michel Lang <michellang@gmail.com>",
+        "Repository": "CRAN",
+        "Date/Publication": "2020-02-06 01:00:13 UTC",
+        "Built": "R 3.6.3; x86_64-w64-mingw32; 2020-11-28 18:42:26 UTC; windows"
+      }
+    },
     "chron": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "chron",
         "Version": "2.3-55",
@@ -1818,7 +1847,7 @@
     },
     "cli": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "cli",
         "Title": "Helpers for Developing Command Line Interfaces",
@@ -1846,7 +1875,7 @@
     },
     "clipr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Type": "Package",
         "Package": "clipr",
@@ -1876,7 +1905,7 @@
     },
     "cluster": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "cluster",
         "Version": "2.1.1",
@@ -1906,7 +1935,7 @@
     },
     "codetools": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "codetools",
         "Version": "0.2-16",
@@ -1926,7 +1955,7 @@
     },
     "colorspace": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "colorspace",
         "Version": "1.4-1",
@@ -1954,7 +1983,7 @@
     },
     "commonmark": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "commonmark",
         "Type": "Package",
@@ -1978,7 +2007,7 @@
     },
     "config": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "config",
         "Type": "Package",
@@ -2004,7 +2033,7 @@
     },
     "copula": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "copula",
         "Version": "0.999-20",
@@ -2035,7 +2064,7 @@
     },
     "corrplot": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "corrplot",
         "Type": "Package",
@@ -2061,7 +2090,7 @@
     },
     "corrr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "corrr",
         "Type": "Package",
@@ -2090,7 +2119,7 @@
     },
     "covr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Encoding": "UTF-8",
         "Package": "covr",
@@ -2118,7 +2147,7 @@
     },
     "cowplot": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "cowplot",
         "Title": "Streamlined Plot Theme and Plot Annotations for 'ggplot2'",
@@ -2146,7 +2175,7 @@
     },
     "crayon": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "crayon",
         "Title": "Colored Terminal Output",
@@ -2173,7 +2202,7 @@
     },
     "crosstalk": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "crosstalk",
         "Type": "Package",
@@ -2199,7 +2228,7 @@
     },
     "curl": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "curl",
         "Type": "Package",
@@ -2229,7 +2258,7 @@
     },
     "data.table": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "data.table",
         "Version": "1.13.6",
@@ -2256,7 +2285,7 @@
     },
     "dbplyr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Type": "Package",
         "Package": "dbplyr",
@@ -2287,7 +2316,7 @@
     },
     "dendextend": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "dendextend",
         "Type": "Package",
@@ -2318,7 +2347,7 @@
     },
     "desc": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "desc",
         "Title": "Manipulate DESCRIPTION Files",
@@ -2346,7 +2375,7 @@
     },
     "devtools": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "devtools",
         "Title": "Tools to Make Developing R Packages Easier",
@@ -2374,7 +2403,7 @@
     },
     "digest": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "digest",
         "Author": "Dirk Eddelbuettel <edd@debian.org> with contributions \n by Antoine Lucas, Jarek Tuszynski, Henrik Bengtsson, Simon Urbanek,\n Mario Frasca, Bryan Lewis, Murray Stokely, Hannes Muehleisen,\n Duncan Murdoch, Jim Hester, Wush Wu, Qiang Kou, Thierry Onkelinx, \n Michel Lang, Viliam Simko, Kurt Hornik, Radford Neal, Kendon Bell,\n Matthew de Queljoe, Ion Suruceanu, and Bill Denney.",
@@ -2399,7 +2428,7 @@
     },
     "dockerfiler": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "dockerfiler",
         "Title": "Easy Dockerfile Creation from R",
@@ -2426,7 +2455,7 @@
     },
     "dplyr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Type": "Package",
         "Package": "dplyr",
@@ -2455,7 +2484,7 @@
     },
     "ellipsis": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ellipsis",
         "Version": "0.3.0",
@@ -2482,7 +2511,7 @@
     },
     "evaluate": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "evaluate",
         "Type": "Package",
@@ -2509,7 +2538,7 @@
     },
     "excelR": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "excelR",
         "Type": "Package",
@@ -2536,7 +2565,7 @@
     },
     "expm": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "expm",
         "Type": "Package",
@@ -2563,7 +2592,7 @@
     },
     "fBasics": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "fBasics",
         "Title": "Rmetrics - Markets and Basic Statistics",
@@ -2589,7 +2618,7 @@
     },
     "fTrading": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "fTrading",
         "Title": "Rmetrics - Trading and Rebalancing Financial Instruments",
@@ -2613,7 +2642,7 @@
     },
     "fansi": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "fansi",
         "Title": "ANSI Control Sequence Aware String Functions",
@@ -2641,7 +2670,7 @@
     },
     "farver": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "farver",
         "Type": "Package",
@@ -2667,7 +2696,7 @@
     },
     "fastmap": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "fastmap",
         "Title": "Fast Implementation of a Key-Value Store",
@@ -2692,7 +2721,7 @@
     },
     "forcats": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "forcats",
         "Title": "Tools for Working with Categorical Variables (Factors)",
@@ -2720,7 +2749,7 @@
     },
     "foreach": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "foreach",
         "Type": "Package",
@@ -2748,7 +2777,7 @@
     },
     "foreign": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "foreign",
         "Priority": "recommended",
@@ -2775,7 +2804,7 @@
     },
     "fs": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "fs",
         "Title": "Cross-Platform File System Operations Based on 'libuv'",
@@ -2807,7 +2836,7 @@
     },
     "furrr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "furrr",
         "Version": "0.1.0",
@@ -2833,7 +2862,7 @@
     },
     "future": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "future",
         "Version": "1.16.0",
@@ -2860,7 +2889,7 @@
     },
     "gamboostLSS": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gamboostLSS",
         "Type": "Package",
@@ -2887,7 +2916,7 @@
     },
     "gamlss": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gamlss",
         "Description": "Functions for fitting the Generalized Additive Models for Location Scale and Shape introduced by Rigby and Stasinopoulos (2005), <doi:10.1111/j.1467-9876.2005.00510.x>. The models use a distributional regression approach where all the parameters of the conditional distribution of the response variable are modelled using explanatory variables.",
@@ -2911,7 +2940,7 @@
     },
     "gamlss.add": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gamlss.add",
         "Description": "Interface for extra smooth functions including tensor products, neural networks and decision trees.",
@@ -2934,7 +2963,7 @@
     },
     "gamlss.data": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gamlss.data",
         "Description": "Data used as examples to demonstrate GAMLSS models.",
@@ -2956,7 +2985,7 @@
     },
     "gamlss.dist": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gamlss.dist",
         "Type": "Package",
@@ -2979,7 +3008,7 @@
     },
     "gclus": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gclus",
         "Version": "1.3.2",
@@ -3002,7 +3031,7 @@
     },
     "gdata": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gdata",
         "Title": "Various R Programming Tools for Data Manipulation",
@@ -3025,7 +3054,7 @@
     },
     "generics": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "generics",
         "Version": "0.0.2",
@@ -3052,7 +3081,7 @@
     },
     "ggplot2": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ggplot2",
         "Version": "3.3.3",
@@ -3082,7 +3111,7 @@
     },
     "ggpubr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ggpubr",
         "Type": "Package",
@@ -3112,7 +3141,7 @@
     },
     "ggrepel": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ggrepel",
         "Version": "0.8.2",
@@ -3140,7 +3169,7 @@
     },
     "ggsci": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ggsci",
         "Type": "Package",
@@ -3169,7 +3198,7 @@
     },
     "ggsignif": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ggsignif",
         "Type": "Package",
@@ -3196,7 +3225,7 @@
     },
     "gh": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gh",
         "Title": "'GitHub' 'API'",
@@ -3222,7 +3251,7 @@
     },
     "git2r": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "git2r",
         "Title": "Provides Access to Git Repositories",
@@ -3253,7 +3282,7 @@
     },
     "globals": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "globals",
         "Version": "0.12.5",
@@ -3279,7 +3308,7 @@
     },
     "glue": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "glue",
         "Title": "Interpreted String Literals",
@@ -3308,7 +3337,7 @@
     },
     "golem": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "golem",
         "Title": "A Framework for Robust Shiny Applications",
@@ -3337,7 +3366,7 @@
     },
     "gplots": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gplots",
         "Title": "Various R Programming Tools for Plotting Data",
@@ -3363,7 +3392,7 @@
     },
     "gridExtra": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gridExtra",
         "Authors@R": "c(person(\"Baptiste\", \"Auguie\",\n    email = \"baptiste.auguie@gmail.com\",\n    role = c(\"aut\", \"cre\")), person(\"Anton\", \"Antonov\",\n    email = \"tonytonov@gmail.com\",\n    role = c(\"ctb\")))",
@@ -3387,7 +3416,7 @@
     },
     "gsl": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gsl",
         "Version": "2.1-6",
@@ -3410,7 +3439,7 @@
     },
     "gss": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gss",
         "Version": "2.1-12",
@@ -3430,7 +3459,7 @@
     },
     "gtable": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gtable",
         "Title": "Arrange 'Grobs' in Tables",
@@ -3458,7 +3487,7 @@
     },
     "gtools": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "gtools",
         "Title": "Various R Programming Tools",
@@ -3481,7 +3510,7 @@
     },
     "haven": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "haven",
         "Title": "Import and Export 'SPSS', 'Stata' and 'SAS' Files",
@@ -3511,7 +3540,7 @@
     },
     "here": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "here",
         "Title": "A Simpler Way to Find Your Files",
@@ -3537,7 +3566,7 @@
     },
     "hexbin": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "hexbin",
         "Version": "1.28.1",
@@ -3561,7 +3590,7 @@
     },
     "highr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "highr",
         "Type": "Package",
@@ -3587,7 +3616,7 @@
     },
     "hms": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "hms",
         "Title": "Pretty Time of Day",
@@ -3612,9 +3641,36 @@
         "Built": "R 3.6.3; ; 2020-04-02 21:25:53 UTC; windows"
       }
     },
+    "htmlTable": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "htmlTable",
+        "Version": "2.1.0",
+        "Title": "Advanced Tables for Markdown/HTML",
+        "Authors@R": "c(\n  person(\"Max\", \"Gordon\", email = \"max@gforge.se\",\n         role = c(\"aut\", \"cre\")),\n  person(\"Stephen\", \"Gragg\", role=c(\"aut\")),\n  person(\"Peter\", \"Konings\", role=c(\"aut\")))",
+        "Maintainer": "Max Gordon <max@gforge.se>",
+        "Description": "Tables with state-of-the-art layout elements such as row spanners,\n    column spanners, table spanners, zebra striping, and more. While allowing\n    advanced layout, the underlying css-structure is simple in order to maximize\n    compatibility with word processors such as 'MS Word' or 'LibreOffice'. The package\n    also contains a few text formatting functions that help outputting text\n    compatible with HTML/LaTeX.",
+        "License": "GPL (>= 3)",
+        "URL": "https://gforge.se/packages/",
+        "BugReports": "https://github.com/gforge/htmlTable/issues",
+        "Biarch": "yes",
+        "Imports": "stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,\ncheckmate, htmlwidgets, htmltools, rstudioapi (>= 0.6)",
+        "Suggests": "testthat, XML, xml2, Hmisc, reshape, rmarkdown, chron,\nlubridate, tibble, purrr, tidyselect, glue, rlang, tidyr (>=\n0.7.2), dplyr (>= 0.7.4)",
+        "Encoding": "UTF-8",
+        "NeedsCompilation": "no",
+        "VignetteBuilder": "knitr",
+        "RoxygenNote": "7.1.1",
+        "Packaged": "2020-09-16 20:11:49 UTC; max",
+        "Author": "Max Gordon [aut, cre],\n  Stephen Gragg [aut],\n  Peter Konings [aut]",
+        "Repository": "CRAN",
+        "Date/Publication": "2020-09-16 21:10:02 UTC",
+        "Built": "R 3.6.3; ; 2021-04-14 06:26:48 UTC; windows"
+      }
+    },
     "htmltools": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "htmltools",
         "Type": "Package",
@@ -3643,7 +3699,7 @@
     },
     "htmlwidgets": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "htmlwidgets",
         "Type": "Package",
@@ -3670,7 +3726,7 @@
     },
     "httpuv": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "httpuv",
         "Type": "Package",
@@ -3699,7 +3755,7 @@
     },
     "httr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "httr",
         "Title": "Tools for Working with URLs and HTTP",
@@ -3726,7 +3782,7 @@
     },
     "igraph": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "igraph",
         "Version": "1.2.5",
@@ -3753,7 +3809,7 @@
     },
     "ini": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ini",
         "Type": "Package",
@@ -3778,7 +3834,7 @@
     },
     "inum": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "inum",
         "Title": "Interval and Enum-Type Representation of Vectors",
@@ -3800,7 +3856,7 @@
     },
     "isoband": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "isoband",
         "Title": "Generate Isolines and Isobands from Regularly Spaced Elevation\nGrids",
@@ -3829,7 +3885,7 @@
     },
     "iterators": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "iterators",
         "Type": "Package",
@@ -3851,7 +3907,7 @@
     },
     "jsonlite": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "jsonlite",
         "Version": "1.6.1",
@@ -3876,7 +3932,7 @@
     },
     "kableExtra": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "kableExtra",
         "Type": "Package",
@@ -3905,7 +3961,7 @@
     },
     "kernlab": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "kernlab",
         "Version": "0.9-29",
@@ -3928,7 +3984,7 @@
     },
     "knitr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "knitr",
         "Type": "Package",
@@ -3958,7 +4014,7 @@
     },
     "ks": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ks",
         "Version": "1.11.7",
@@ -3982,7 +4038,7 @@
     },
     "labeling": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "labeling",
         "Type": "Package",
@@ -4007,7 +4063,7 @@
     },
     "later": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "later",
         "Type": "Package",
@@ -4034,7 +4090,7 @@
     },
     "lattice": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "lattice",
         "Version": "0.20-41",
@@ -4063,7 +4119,7 @@
     },
     "lazyeval": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "lazyeval",
         "Version": "0.2.2",
@@ -4087,7 +4143,7 @@
     },
     "libcoin": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "libcoin",
         "Title": "Linear Test Statistics for Permutation Inference",
@@ -4111,7 +4167,7 @@
     },
     "lifecycle": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "lifecycle",
         "Title": "Manage the Life Cycle of your Package Functions",
@@ -4139,7 +4195,7 @@
     },
     "listenv": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "listenv",
         "Version": "0.8.0",
@@ -4165,7 +4221,7 @@
     },
     "lme4": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "lme4",
         "Version": "1.1-23",
@@ -4194,7 +4250,7 @@
     },
     "logging": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "logging",
         "Version": "0.10-108",
@@ -4221,7 +4277,7 @@
     },
     "lubridate": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Type": "Package",
         "Package": "lubridate",
@@ -4254,7 +4310,7 @@
     },
     "magrittr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "magrittr",
         "Type": "Package",
@@ -4276,7 +4332,7 @@
     },
     "mailR": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "mailR",
         "Type": "Package",
@@ -4299,7 +4355,7 @@
     },
     "maptools": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "maptools",
         "Version": "0.9-9",
@@ -4326,7 +4382,7 @@
     },
     "markdown": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "markdown",
         "Type": "Package",
@@ -4354,7 +4410,7 @@
     },
     "mboost": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "mboost",
         "Title": "Model-Based Boosting",
@@ -4380,7 +4436,7 @@
     },
     "mclust": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "mclust",
         "Version": "5.4.6",
@@ -4408,7 +4464,7 @@
     },
     "memoise": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Encoding": "UTF-8",
         "Package": "memoise",
@@ -4434,7 +4490,7 @@
     },
     "mgcv": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "mgcv",
         "Version": "1.8-34",
@@ -4458,7 +4514,7 @@
     },
     "mime": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "mime",
         "Type": "Package",
@@ -4484,7 +4540,7 @@
     },
     "minqa": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "minqa",
         "Type": "Package",
@@ -4507,7 +4563,7 @@
     },
     "moments": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "moments",
         "Type": "Package",
@@ -4528,7 +4584,7 @@
     },
     "multicool": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "multicool",
         "Type": "Package",
@@ -4554,7 +4610,7 @@
     },
     "munsell": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "munsell",
         "Type": "Package",
@@ -4577,7 +4633,7 @@
     },
     "mvtnorm": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "mvtnorm",
         "Title": "Multivariate Normal and t Distributions",
@@ -4600,7 +4656,7 @@
     },
     "nlme": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "nlme",
         "Version": "3.1-152",
@@ -4631,7 +4687,7 @@
     },
     "nloptr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "nloptr",
         "Type": "Package",
@@ -4657,7 +4713,7 @@
     },
     "nnet": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "nnet",
         "Priority": "recommended",
@@ -4682,7 +4738,7 @@
     },
     "nnls": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "nnls",
         "Type": "Package",
@@ -4700,7 +4756,7 @@
     },
     "nortest": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "nortest",
         "Title": "Tests for Normality",
@@ -4721,7 +4777,7 @@
     },
     "numDeriv": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "numDeriv",
         "Version": "2016.8-1.1",
@@ -4744,7 +4800,7 @@
     },
     "odbc": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "odbc",
         "Title": "Connect to ODBC Compatible Databases (using the DBI Interface)",
@@ -4775,7 +4831,7 @@
     },
     "openssl": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "openssl",
         "Type": "Package",
@@ -4803,7 +4859,7 @@
     },
     "openxlsx": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Type": "Package",
         "Package": "openxlsx",
@@ -4834,7 +4890,7 @@
     },
     "pacman": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pacman",
         "Type": "Package",
@@ -4860,7 +4916,7 @@
     },
     "partykit": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "partykit",
         "Title": "A Toolkit for Recursive Partytioning",
@@ -4886,7 +4942,7 @@
     },
     "pbkrtest": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pbkrtest",
         "Version": "0.4-7",
@@ -4910,7 +4966,7 @@
     },
     "pcaPP": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pcaPP",
         "Version": "1.9-73",
@@ -4930,7 +4986,7 @@
     },
     "pillar": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pillar",
         "Title": "Coloured Formatting for Columns",
@@ -4957,7 +5013,7 @@
     },
     "pkgbuild": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pkgbuild",
         "Title": "Find Tools Needed to Build R Packages",
@@ -4984,7 +5040,7 @@
     },
     "pkgconfig": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pkgconfig",
         "Title": "Private Configuration for 'R' Packages",
@@ -5008,7 +5064,7 @@
     },
     "pkgload": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pkgload",
         "Title": "Simulate Package Installation and Attach",
@@ -5034,7 +5090,7 @@
     },
     "plotly": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "plotly",
         "Title": "Create Interactive Web Graphics via 'plotly.js'",
@@ -5061,7 +5117,7 @@
     },
     "plyr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "plyr",
         "Title": "Tools for Splitting, Applying and Combining Data",
@@ -5089,7 +5145,7 @@
     },
     "polynom": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "polynom",
         "Version": "1.4-0",
@@ -5111,7 +5167,7 @@
     },
     "praise": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "praise",
         "Title": "Praise Users",
@@ -5134,7 +5190,7 @@
     },
     "prettyunits": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "prettyunits",
         "Title": "Pretty, Human Readable Formatting of Quantities",
@@ -5158,7 +5214,7 @@
     },
     "processx": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "processx",
         "Title": "Execute and Control System Processes",
@@ -5184,7 +5240,7 @@
     },
     "progress": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "progress",
         "Title": "Terminal Progress Bars",
@@ -5209,7 +5265,7 @@
     },
     "promises": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "promises",
         "Type": "Package",
@@ -5238,7 +5294,7 @@
     },
     "ps": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "ps",
         "Version": "1.3.2",
@@ -5265,7 +5321,7 @@
     },
     "pspline": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "pspline",
         "Version": "1.0-18",
@@ -5285,7 +5341,7 @@
     },
     "purrr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "purrr",
         "Title": "Functional Programming Tools",
@@ -5313,7 +5369,7 @@
     },
     "qap": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "qap",
         "Title": "Heuristics for the Quadratic Assignment Problem (QAP)",
@@ -5335,7 +5391,7 @@
     },
     "quadprog": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "quadprog",
         "Type": "Package",
@@ -5356,7 +5412,7 @@
     },
     "quantmod": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "quantmod",
         "Type": "Package",
@@ -5382,7 +5438,7 @@
     },
     "quantreg": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "quantreg",
         "Title": "Quantile Regression",
@@ -5406,7 +5462,7 @@
     },
     "rJava": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rJava",
         "Version": "0.9-12",
@@ -5428,7 +5484,7 @@
     },
     "rcmdcheck": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rcmdcheck",
         "Title": "Run 'R CMD check' from 'R' and Capture Results",
@@ -5451,9 +5507,66 @@
         "Built": "R 3.6.3; ; 2020-04-02 21:27:27 UTC; windows"
       }
     },
+    "reactR": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "reactR",
+        "Type": "Package",
+        "Title": "React Helpers",
+        "Version": "0.4.4",
+        "Date": "2021-02-20",
+        "Authors@R": "c(\n      person(\n        \"Facebook\", \"Inc\"\n        , role = c(\"aut\", \"cph\")\n        , comment = \"React library in lib, https://reactjs.org/; see AUTHORS for full list of contributors\"\n      ),\n      person(\n        \"Michel\",\"Weststrate\",\n        , role = c(\"aut\", \"cph\")\n        , comment = \"mobx library in lib, https://github.com/mobxjs\"\n      ),\n      person(\n        \"Kent\", \"Russell\"\n        , role = c(\"aut\", \"cre\")\n        , comment = \"R interface\"\n        , email = \"kent.russell@timelyportfolio.com\"\n      ),\n      person(\n        \"Alan\", \"Dipert\"\n        , role = c(\"aut\")\n        , comment = \"R interface\"\n        , email = \"alan@rstudio.com\"\n      )\n    )",
+        "Maintainer": "Kent Russell <kent.russell@timelyportfolio.com>",
+        "Description": "Make it easy to use 'React' in R with 'htmlwidget' scaffolds,\n              helper dependency functions, an embedded 'Babel' 'transpiler',\n              and examples.",
+        "URL": "https://github.com/react-R/reactR",
+        "BugReports": "https://github.com/react-R/reactR/issues",
+        "License": "MIT + file LICENSE",
+        "LazyData": "TRUE",
+        "Encoding": "UTF-8",
+        "Imports": "htmltools",
+        "Suggests": "htmlwidgets (>= 1.5.3), rmarkdown, shiny, V8, knitr, usethis,\njsonlite",
+        "RoxygenNote": "7.1.1",
+        "VignetteBuilder": "knitr",
+        "NeedsCompilation": "no",
+        "Packaged": "2021-02-21 15:11:04 UTC; kentr",
+        "Author": "Facebook Inc [aut, cph] (React library in lib, https://reactjs.org/;\n    see AUTHORS for full list of contributors),\n  Michel Weststrate [aut, cph] (mobx library in lib,\n    https://github.com/mobxjs),\n  Kent Russell [aut, cre] (R interface),\n  Alan Dipert [aut] (R interface)",
+        "Repository": "CRAN",
+        "Date/Publication": "2021-02-22 14:50:06 UTC",
+        "Built": "R 3.6.3; ; 2021-03-22 22:48:20 UTC; windows"
+      }
+    },
+    "reactable": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org/",
+      "description": {
+        "Package": "reactable",
+        "Type": "Package",
+        "Title": "Interactive Data Tables Based on 'React Table'",
+        "Version": "0.2.3",
+        "Authors@R": "c(\n    person(\"Greg\", \"Lin\", email = \"glin@glin.io\", role = c(\"aut\", \"cre\")),\n    person(\"Tanner\", \"Linsley\", role = c(\"ctb\", \"cph\"), comment = \"React Table library\"),\n    person(family = \"Emotion team and other contributors\", role = c(\"ctb\", \"cph\"),\n           comment = \"Emotion library\")\n    )",
+        "Description": "Interactive data tables for R, based on the 'React Table'\n    JavaScript library. Provides an HTML widget that can be used in 'R Markdown'\n    documents and 'Shiny' applications, or viewed from an R console.",
+        "License": "MIT + file LICENSE",
+        "URL": "https://glin.github.io/reactable/,\nhttps://github.com/glin/reactable",
+        "BugReports": "https://github.com/glin/reactable/issues",
+        "Depends": "R (>= 3.1)",
+        "Imports": "digest, htmltools, htmlwidgets, jsonlite, reactR",
+        "Suggests": "covr, crosstalk, dplyr, leaflet, MASS, rmarkdown, shiny,\nsparkline, testthat",
+        "Encoding": "UTF-8",
+        "LazyData": "true",
+        "RoxygenNote": "7.1.1",
+        "NeedsCompilation": "no",
+        "Packaged": "2020-10-04 21:31:55 UTC; greg",
+        "Author": "Greg Lin [aut, cre],\n  Tanner Linsley [ctb, cph] (React Table library),\n  Emotion team and other contributors [ctb, cph] (Emotion library)",
+        "Maintainer": "Greg Lin <glin@glin.io>",
+        "Repository": "CRAN",
+        "Date/Publication": "2020-10-04 21:50:02 UTC",
+        "Built": "R 3.6.3; ; 2020-12-11 19:54:11 UTC; windows"
+      }
+    },
     "readr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "readr",
         "Version": "1.3.1",
@@ -5483,7 +5596,7 @@
     },
     "readxl": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "readxl",
         "Title": "Read Excel Files",
@@ -5512,7 +5625,7 @@
     },
     "registry": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "registry",
         "Type": "Package",
@@ -5533,7 +5646,7 @@
     },
     "rematch": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rematch",
         "Title": "Match Regular Expressions with a Nicer 'API'",
@@ -5557,7 +5670,7 @@
     },
     "rematch2": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rematch2",
         "Title": "Tidy Output from Regular Expression Matching",
@@ -5583,7 +5696,7 @@
     },
     "remotes": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "remotes",
         "Title": "R Package Installation from Remote Repositories, Including\n'GitHub'",
@@ -5611,7 +5724,7 @@
     },
     "reshape": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "reshape",
         "Version": "0.8.8",
@@ -5634,7 +5747,7 @@
     },
     "reshape2": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "reshape2",
         "Title": "Flexibly Reshape Data: A Reboot of the Reshape Package",
@@ -5661,7 +5774,7 @@
     },
     "rex": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rex",
         "Type": "Package",
@@ -5688,7 +5801,7 @@
     },
     "rio": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rio",
         "Type": "Package",
@@ -5716,7 +5829,7 @@
     },
     "rjson": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rjson",
         "Version": "0.2.20",
@@ -5736,7 +5849,7 @@
     },
     "rlang": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rlang",
         "Version": "0.4.10",
@@ -5767,7 +5880,7 @@
     },
     "rmarkdown": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rmarkdown",
         "Type": "Package",
@@ -5796,7 +5909,7 @@
     },
     "roxygen2": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "roxygen2",
         "Title": "In-Line Documentation for R",
@@ -5825,7 +5938,7 @@
     },
     "rpart": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rpart",
         "Priority": "recommended",
@@ -5852,7 +5965,7 @@
     },
     "rprojroot": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rprojroot",
         "Title": "Finding Files in Project Subdirectories",
@@ -5881,7 +5994,7 @@
     },
     "rstatix": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rstatix",
         "Type": "Package",
@@ -5911,7 +6024,7 @@
     },
     "rstudioapi": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rstudioapi",
         "Title": "Safely Access the RStudio API",
@@ -5936,7 +6049,7 @@
     },
     "rugarch": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rugarch",
         "Type": "Package",
@@ -5964,7 +6077,7 @@
     },
     "rversions": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rversions",
         "Title": "Query 'R' Versions, Including 'r-release' and 'r-oldrel'",
@@ -5989,7 +6102,7 @@
     },
     "rvest": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "rvest",
         "Title": "Easily Harvest (Scrape) Web Pages",
@@ -6018,7 +6131,7 @@
     },
     "scales": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "scales",
         "Title": "Scale Functions for Visualization",
@@ -6045,7 +6158,7 @@
     },
     "selectr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "selectr",
         "Type": "Package",
@@ -6071,7 +6184,7 @@
     },
     "seriation": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "seriation",
         "Type": "Package",
@@ -6099,7 +6212,7 @@
     },
     "sessioninfo": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "sessioninfo",
         "Title": "R Session Information",
@@ -6124,7 +6237,7 @@
     },
     "shiny": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shiny",
         "Type": "Package",
@@ -6147,12 +6260,12 @@
         "Maintainer": "Winston Chang <winston@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-06-23 13:30:03 UTC",
-        "Built": "R 3.6.3; ; 2021-02-26 15:22:04 UTC; windows"
+        "Built": "R 3.6.3; ; 2020-12-11 22:54:06 UTC; windows"
       }
     },
     "shinyBS": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shinyBS",
         "Type": "Package",
@@ -6175,7 +6288,7 @@
     },
     "shinyWidgets": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shinyWidgets",
         "Title": "Custom Inputs Widgets for Shiny",
@@ -6202,7 +6315,7 @@
     },
     "shinycssloaders": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shinycssloaders",
         "Type": "Package",
@@ -6229,7 +6342,7 @@
     },
     "shinydashboard": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shinydashboard",
         "Title": "Create Dashboards with 'Shiny'",
@@ -6253,7 +6366,7 @@
     },
     "shinydashboardPlus": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shinydashboardPlus",
         "Type": "Package",
@@ -6281,7 +6394,7 @@
     },
     "shinyjs": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shinyjs",
         "Title": "Easily Improve the User Experience of Your Shiny Apps in Seconds",
@@ -6309,7 +6422,7 @@
     },
     "shinythemes": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "shinythemes",
         "Title": "Themes for Shiny",
@@ -6332,7 +6445,7 @@
     },
     "sourcetools": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "sourcetools",
         "Type": "Package",
@@ -6357,7 +6470,7 @@
     },
     "sp": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "sp",
         "Version": "1.4-1",
@@ -6382,7 +6495,7 @@
     },
     "spatial": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "spatial",
         "Priority": "recommended",
@@ -6408,7 +6521,7 @@
     },
     "spd": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "spd",
         "Type": "Package",
@@ -6433,7 +6546,7 @@
     },
     "stabledist": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "stabledist",
         "Version": "0.7-1",
@@ -6457,7 +6570,7 @@
     },
     "stabs": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "stabs",
         "Title": "Stability Selection with Error Control",
@@ -6483,7 +6596,7 @@
     },
     "statmod": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "statmod",
         "Version": "1.4.34",
@@ -6505,7 +6618,7 @@
     },
     "stringi": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "stringi",
         "Version": "1.4.6",
@@ -6533,7 +6646,7 @@
     },
     "stringr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "stringr",
         "Title": "Simple, Consistent Wrappers for Common String Operations",
@@ -6561,7 +6674,7 @@
     },
     "survival": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Title": "Survival Analysis",
         "Priority": "recommended",
@@ -6588,7 +6701,7 @@
     },
     "sys": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "sys",
         "Type": "Package",
@@ -6615,7 +6728,7 @@
     },
     "testthat": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "testthat",
         "Title": "Unit Testing for R",
@@ -6643,7 +6756,7 @@
     },
     "tibble": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "tibble",
         "Title": "Simple Data Frames",
@@ -6672,7 +6785,7 @@
     },
     "tictoc": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "tictoc",
         "Title": "Functions for timing R scripts, as well as implementations of\nStack and List structures.",
@@ -6694,7 +6807,7 @@
     },
     "tidyr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "tidyr",
         "Title": "Tidy Messy Data",
@@ -6723,7 +6836,7 @@
     },
     "tidyselect": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "tidyselect",
         "Title": "Select from a Set of Strings",
@@ -6752,7 +6865,7 @@
     },
     "timeDate": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "timeDate",
         "Title": "Rmetrics - Chronological and Calendar Objects",
@@ -6775,7 +6888,7 @@
     },
     "timeSeries": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "timeSeries",
         "Title": "Financial Time Series Objects (Rmetrics)",
@@ -6799,7 +6912,7 @@
     },
     "tinytex": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "tinytex",
         "Type": "Package",
@@ -6826,7 +6939,7 @@
     },
     "truncnorm": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "truncnorm",
         "Version": "1.0-8",
@@ -6851,7 +6964,7 @@
     },
     "tseries": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "tseries",
         "Version": "0.10-47",
@@ -6872,7 +6985,7 @@
     },
     "usethis": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "usethis",
         "Title": "Automate Package and Project Setup",
@@ -6900,7 +7013,7 @@
     },
     "utf8": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "utf8",
         "Version": "1.1.4",
@@ -6926,7 +7039,7 @@
     },
     "vctrs": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "vctrs",
         "Title": "Vector Helpers",
@@ -6955,7 +7068,7 @@
     },
     "viridis": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "viridis",
         "Type": "Package",
@@ -6984,7 +7097,7 @@
     },
     "viridisLite": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "viridisLite",
         "Type": "Package",
@@ -7011,7 +7124,7 @@
     },
     "visNetwork": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "visNetwork",
         "Title": "Network Visualization using 'vis.js' Library",
@@ -7037,7 +7150,7 @@
     },
     "webshot": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "webshot",
         "Title": "Take Screenshots of Web Pages",
@@ -7064,7 +7177,7 @@
     },
     "whisker": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "whisker",
         "Maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
@@ -7087,7 +7200,7 @@
     },
     "withr": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Encoding": "UTF-8",
         "Package": "withr",
@@ -7116,7 +7229,7 @@
     },
     "wkb": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "wkb",
         "Type": "Package",
@@ -7140,7 +7253,7 @@
     },
     "xfun": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "xfun",
         "Type": "Package",
@@ -7168,7 +7281,7 @@
     },
     "xml2": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "xml2",
         "Title": "Parse XML",
@@ -7197,7 +7310,7 @@
     },
     "xopen": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "xopen",
         "Title": "Open System Files, 'URLs', Anything",
@@ -7224,7 +7337,7 @@
     },
     "xtable": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "xtable",
         "Version": "1.8-4",
@@ -7249,7 +7362,7 @@
     },
     "xts": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "xts",
         "Type": "Package",
@@ -7276,7 +7389,7 @@
     },
     "yaml": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "yaml",
         "Type": "Package",
@@ -7299,7 +7412,7 @@
     },
     "zip": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "zip",
         "Title": "Cross-Platform 'zip' Compression",
@@ -7324,7 +7437,7 @@
     },
     "zoo": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
+      "Repository": "https://cloud.r-project.org/",
       "description": {
         "Package": "zoo",
         "Version": "1.8-7",
@@ -7348,11 +7461,17 @@
     }
   },
   "files": {
+    ".gitattributes": {
+      "checksum": "05bdb783ee6514c8c072e47680af8ff7"
+    },
+    ".RData": {
+      "checksum": "1c4cbf671082da024f5048a8be58322e"
+    },
     ".Rprofile": {
-      "checksum": "07e03d4ef7f9ea95d95c94a4b8aa3ab3"
+      "checksum": "53e02654a0f59ff88e7f58c0c3fa7268"
     },
     "app.R": {
-      "checksum": "cc9501c58f8d97a7d25b0863936f0e97"
+      "checksum": "016fc5a12d9fa24dff82e36f81f82c88"
     },
     "packrat/desc/abind": {
       "checksum": "d1b224f59dd9b6cc44c5f706515e5111"
@@ -7361,49 +7480,49 @@
       "checksum": "612cf9254afcc3d3adc6af411d580e2f"
     },
     "packrat/desc/argus.DS.Credentials": {
-      "checksum": "c0fd9412c782108162cdca050734c692"
+      "checksum": "d92074b3b5dabec5cd2e801c40e42e67"
     },
     "packrat/desc/argus.model.performance": {
-      "checksum": "652d8bb55a40b9d5a9a1008968b23739"
+      "checksum": "008bb6a3e69dfe760a47b786c46617a4"
     },
     "packrat/desc/argusDS.data.engineering": {
-      "checksum": "690af222148ca29f3d6beb64ddd9f934"
+      "checksum": "bb2b83054a549f1603206aed72fdf473"
     },
     "packrat/desc/argusDS.data.preparation": {
-      "checksum": "7c153e544bc6ad52f7672de74b1531a6"
+      "checksum": "c8ddb2c6aa1d9f84fc4bd9ac877af2a2"
     },
     "packrat/desc/argusDS.data.visualisation": {
       "checksum": "8ea87f5e1376b65f793c200159cd2f24"
     },
     "packrat/desc/argusDS.database": {
-      "checksum": "cb82f21be431ce9a724cfc5316f53a94"
+      "checksum": "719c97f5871d74fbdd01a4490f3b263a"
     },
     "packrat/desc/argusDS.DB.manager.utilities": {
-      "checksum": "cb5a51bdfae994d87030423930b92d54"
+      "checksum": "4ed703329a8272bf9cb7efd74b889ade"
     },
     "packrat/desc/argusDS.distributions": {
       "checksum": "270c9418766a59f9532e7bc369e53aca"
     },
     "packrat/desc/argusDS.ds.dashboard": {
-      "checksum": "1d04d260546f7209674aa0e2ebb42318"
+      "checksum": "865430479b391eca305725c90a83ef19"
     },
     "packrat/desc/argusDS.GlobalSettings": {
-      "checksum": "6ae30f3de0b89c9eb6e496836a0d8d6a"
+      "checksum": "d1e62b38545a5b8b2b934b6fdc34f437"
     },
     "packrat/desc/argusDS.model.testing": {
-      "checksum": "414d3d1829c726f4ebded1e0e172ebd7"
+      "checksum": "4f400ddd9a3773ea6dae16b3f8aada0a"
     },
     "packrat/desc/argusDS.modeldb": {
-      "checksum": "6720db5b0acc8e68d264a8435bb69189"
+      "checksum": "315632f0361d84627276c0be30646a80"
     },
     "packrat/desc/argusDS.PossibilityCurves.utils": {
-      "checksum": "f6b524ac8e371b33a99fef79fe7fbe85"
+      "checksum": "660d2862d7f9537bbf3f2738cc2414ea"
     },
     "packrat/desc/argusDS.smoothers": {
       "checksum": "e60a5a88c7e17af67ae32430e49a159f"
     },
     "packrat/desc/argusDS.utilities": {
-      "checksum": "45868c45467fa762ce82c9d3a18eb8d6"
+      "checksum": "ea978f43dccbdd48f26dd61f877cab4f"
     },
     "packrat/desc/askpass": {
       "checksum": "4c09a05027b2afd7016bd9f8127af00c"
@@ -7467,6 +7586,9 @@
     },
     "packrat/desc/cellranger": {
       "checksum": "6e9d2cabac0488242e9acee2f2731cfa"
+    },
+    "packrat/desc/checkmate": {
+      "checksum": "fd7316108dfac764ea5ad38a1d30b970"
     },
     "packrat/desc/chron": {
       "checksum": "75fe2f3473e7756f4475a4fd08d82d5c"
@@ -7692,6 +7814,9 @@
     },
     "packrat/desc/hms": {
       "checksum": "922cf824eb50320bef195877efd96e42"
+    },
+    "packrat/desc/htmlTable": {
+      "checksum": "4f9af46167aaf6b5e7fc78be8dad64c0"
     },
     "packrat/desc/htmltools": {
       "checksum": "574f3efca305c24a23d1c2e6270911ee"
@@ -7957,6 +8082,12 @@
     "packrat/desc/RCurl": {
       "checksum": "f5690b88e1c408ce8c68837def96e845"
     },
+    "packrat/desc/reactable": {
+      "checksum": "aec43a14e0efdca1482f01839cf5e4e7"
+    },
+    "packrat/desc/reactR": {
+      "checksum": "557d9eaa7a948d5a689b669e67a5123e"
+    },
     "packrat/desc/readr": {
       "checksum": "6306a35e957d448367ce98cbaa6fb17b"
     },
@@ -8045,7 +8176,7 @@
       "checksum": "dd0c798e492fae0c07fa92f465917ae3"
     },
     "packrat/desc/shiny": {
-      "checksum": "dad9ad8b5c51dab65cd88856bcd067cd"
+      "checksum": "340e21a23471c68180827beeedbf543f"
     },
     "packrat/desc/shinyBS": {
       "checksum": "0429f8ff65ed5b724410335263439c06"
@@ -8201,7 +8332,7 @@
       "checksum": "cf1ef8e4427953e9720187f629495f10"
     },
     "packrat/packrat.lock": {
-      "checksum": "ca20a6bcd605858d18f8b347df8cbef1"
+      "checksum": "b0e9f4703b893299d704349bb5c051c2"
     }
   },
   "users": null
