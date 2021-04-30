@@ -5,9 +5,23 @@ argusDS.ds.dashboard::run_app(load_date_from = lubridate::ymd("2005-01-01")) #ad
 #install.packages("argusDS.ds.dashboard", repo =  getOption("repos"), dependencies = F,INSTALL_opts = "--no-multiarch" )
 
 
- #rsconnect::writeManifest()
-
-
+#  #rsconnect::writeManifest()
+# remove.packages("argus.DS.Credentials")
+# remove.packages("argus.model.performance")
+# remove.packages("argusDS.data.engineering")
+# remove.packages("argusDS.data.preparation")
+# remove.packages("argusDS.data.visualisation")
+# remove.packages("argusDS.database")
+# remove.packages("argusDS.DB.manager.utilities")
+# remove.packages("argusDS.distributions")
+# remove.packages("argusDS.GlobalSettings")
+# remove.packages("argusDS.model.testing")
+# remove.packages("argusDS.modeldb")
+# remove.packages("argusDS.PossibilityCurves.utils")
+# remove.packages("argusDS.smoothers")
+# remove.packages("argusDS.utilities")
+# remove.packages("PossibilityCurves")
+# 
 # renv::purge("argus.DS.Credentials")
 # renv::purge("argus.model.performance")
 # renv::purge("argusDS.data.engineering")
